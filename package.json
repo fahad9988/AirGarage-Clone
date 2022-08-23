@@ -1,0 +1,19 @@
+{
+  "name": "naughty-wind-121",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahad9988/naughty-wind-121.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahad9988/naughty-wind-121/issues"
+  },
+  "homepage": "https://github.com/fahad9988/naughty-wind-121#readme"
+}
