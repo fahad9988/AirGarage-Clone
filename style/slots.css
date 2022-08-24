@@ -1,0 +1,170 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;
+}
+#container1{
+ overflow: scroll;
+ height:680px;;
+ margin-top: -44px;
+}
+
+
+#container{
+ width:100%;
+ height:700px;
+
+ display:flex;
+}
+#box1{
+ width:50%;
+ height:auto;
+}
+
+
+
+.gmap_canvas {
+ overflow:hidden;
+width: 45%;
+margin: auto;
+ height:100%;
+ padding-top: 10px;
+
+}
+
+#search{
+ display:flex;
+}
+#search>a>p{
+ margin-top: 8px;
+ margin-left: 10px;
+ color:#6C60FA;
+ font-size: 14px;
+}
+#parkingin{
+ font-size: 13px;
+ margin-top: 0px;
+ margin-left: 10px;
+ font-weight: bolder;
+ opacity: 50%;
+}
+#place{
+ font-size: 40px;
+ font-weight: bold;
+ margin-top: -5px;
+ margin-left: 5px;
+}
+#box{
+ display:flex;
+ height:150px;
+ border-bottom: 2px solid rgb(204, 202, 202);
+ border-width: 80%;
+
+}
+#subbox1{
+ width:20%;
+ height:150px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 5px;
+
+}
+#subbox1>img{
+ width:75%;
+ height:70%;
+ border-radius: 5px;
+}
+#subbox2{
+ /* border:2px solid brown; */
+ width:80%;
+ 
+}
+#subsubbox{
+ display:flex;
+}
+#subsubsubbox1{
+ background-color: #E3EEEF;
+ width:20%;
+ height:20px;
+ margin-top: 20px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 5px;
+}
+#subsubsubbox1>p{
+font-size: 12px;
+color:#455FFF;
+}
+#subsubsubbox2{
+ border-radius: 5px;
+ background-color: #FBBD08;
+ width:10%;
+ height:20px;
+ margin-top: 20px;
+ margin-left: 5px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+}
+#subbox2>p:nth-child(2) {
+ font-weight: bolder;
+ color:#000000;
+ /* position:static; */
+ /* margin-left: 450px; */
+ margin-left:480px;
+
+}
+#subsubbox1{
+ width:100%;
+/* border:2px solid red; */
+ height:15%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
+}
+#subsubsubbox11{
+ width:70%;
+ /* border:1px solid blue; */
+}
+#subsubsubbox12{
+position: static;
+/* border:1px solid green; */
+display: flex;
+justify-content: center;
+align-items: center;
+width:30%;
+font-size: 20px;
+font-weight: bold;
+}
+#subsubsubbox12>span {
+ opacity: 30%;
+}
+#subsubbox1>p{
+ font-weight: bolder;
+ color:#000000;
+
+}
+#subbox2>p:nth-child(3) {
+ font-weight: bold;
+ font-size: 18px;
+ opacity: 90%;
+ margin-top: 12px;
+}
+#subbox2>p:nth-child(4) {
+ font-weight: 800px;
+ font-size: 14px;
+ opacity: 80%;
+ margin-top: 0px;
+ color:grey;
+}
+
+::-webkit-scrollbar{
+ width:7px;
+}
+::-webkit-scrollbar-thumb{
+ background: rgb(223, 229, 230);
+}
+
