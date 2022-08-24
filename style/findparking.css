@@ -52,6 +52,8 @@
     background-color: #F2F2F2;
     border:none;
     outline: none;;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #container1>div:nth-child(2){
     
@@ -67,24 +69,21 @@
 }
 .dropdown{
     position: relative;
-    margin-top: -5px;
+    margin-top: 0px;
+    margin-left: 15px;
     font-family:Arial, Helvetica, sans-serif;
     color:rgb(193, 193, 193);
-    
-    /* opacity: 80%; */
-    /* width:90%;
-    height:40px;
-    border:1px solid rgb(200, 200, 200);
+    /* border:1px solid rgb(200, 200, 200); */
     border-radius: 5px;
-    font-family:Arial, Helvetica, sans-serif;
-    cursor: pointer;
-    outline: none;; */
+    width:100%;
+
 }
 
 .dropdown::before{
     content: '';
     position: absolute;
     z-index: 10000;
+    width:90%;
 }
 .dropdown.active::before{
 
@@ -93,29 +92,46 @@
     display: block;
 }
 .dropdown>input{
-    width:90%;
-    height:40px;
-    border:1px solid rgb(200, 200, 200);
+    width:80%;
+    height:35px;
+    /* border:1px solid rgb(200, 200, 200); */
+    
+    border:none;
     border-radius: 5px;
     font-family:Arial, Helvetica, sans-serif;
-    margin-top: 5px;
-    margin-left: 14px;
+    margin-top: 0px;
+    margin-left: 0px;
     cursor: pointer;
     outline: none;;
     color:rgb(141, 141, 141);
     font-weight: 800px;
+    
+}
+#arrow{
+display:flex;
+border:2px solid;
+width:90%;
+margin-left: 15px;
+
+    border:1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+}
+#down{
+    opacity: 40%;
+    width:10%;
+    margin-top: 10px;
 }
 .dropdown .option {
     position: absolute;
     /* top:50px; */
-    width:90%;
+    width:117%;
     background: #fff;;
     box-shadow: 0 30x 30x rgba(0,0,0,0.05);
     border:1px solid rgb(200, 200, 200);
     border-radius: 5px;
     overflow: hidden;
     margin-top: 5px;
-    margin-left: 15px;
+    margin-left: -15px;
     color: rgb(155, 155, 155);
     display:none;
     z-index: 1000;
@@ -135,6 +151,7 @@
 }
 .dropdown .option div:hover{
     background-color: rgb(210, 231, 231);
+    
 }
 #submenu{
 display: block;
@@ -150,14 +167,18 @@ top:100%;
     width:92%;
     height:50px;
     border-radius: 5px;
-    background-color: #FFEECC;
+    background-color: #fff0d1;
     color:#FA824C;
     border:none;
-    margin-top: 27px;
+    margin-top: 30px;
     margin-left: 15px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 800px;
     font-size: 16px;
+}
+#container1>div:nth-child(3)>button:hover{
+    background-color: #ffecc6;
+    cursor: pointer;
 }
 #heading1{
 text-align: center;
@@ -180,7 +201,7 @@ font-family:Arial, Helvetica, sans-serif;
     gap:30px;
 }
 #container2>div{
-    
+   cursor: pointer; 
 
 }
 #container2>div>img{

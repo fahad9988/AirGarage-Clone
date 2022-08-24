@@ -82,6 +82,13 @@
     font-weight: 800px;
     font-size: 16px;
 }
+.dropdown .option{
+    width:113%;
+}
+.dropdown .option>div{
+    width:88%;
+}
+
         }
     </style>
 </head>
@@ -92,20 +99,23 @@
     <div id="container1">
         <div>
             <p>LOCATION</p>
-            <input id="search" type="search" placeholder="Enter an address">
+            <input id="search" type="search" placeholder="    Enter an address">
         </div>
         <div>
             <p id="type">TYPE</p>
+            <div id="arrow">
             <div class="dropdown">
-                <!-- <i class="fa-solid fa-caret-down"></i> -->
+                
                 <input type="text" class="textBox" placeholder="Monthly" value="Monthly" readonly>
                 <div class="option">
                     <div onclick="show('Hourly')">Hourly</div>
                     <div onclick="show('Monthly')">Monthly</div>
                     <div onclick="show('Airport')">Airport</div>
                 </div>
+              
             </div>
-            
+            <div id="down">  <i class="fa-solid fa-caret-down"></i></div>
+        </div>
         </div>
         <div>
             <button>SEARCH</button>
@@ -113,22 +123,22 @@
     </div>
     <p id="heading1">Popular searches</p>
     <div id="container2">
-        <div>
+        <div onclick="LosAngeles()">
             <img src="https://parking.airgarage.com/static/media/hollywood.3cda80f5.png" alt="">
             <p>Los Angeles</p>
             <p>15 spots available</p>
         </div>
-        <div>
+        <div onclick="Omaha()">
             <img src="https://parking.airgarage.com/static/media/omaha.47180892.png" alt="">
             <p>Omaha</p>
             <p>14 spots available</p>
         </div>
-        <div>
+        <div onclick="AnnArbor()">
             <img src="https://parking.airgarage.com/static/media/a2.29e68f98.png" alt="">
             <p>Ann Arbor</p>
             <p>12 spots available</p>
         </div>
-        <div>
+        <div onclick="Tempe()">
             <img src="https://parking.airgarage.com/static/media/cacti.0300cb19.png" alt="">
             <p>Tempe</p>
             <p>21 spots available</p>
