@@ -8,11 +8,11 @@
     <link rel='stylesheet' type='text/css' media='screen' href='./style/findparking.css'>
     <script src="https://kit.fontawesome.com/61b5f940e7.js" crossorigin="anonymous"></script>
     <style>
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
         @media screen and (min-width: 320px) and (max-width:750px){
            
             #container1{
@@ -21,7 +21,7 @@
             grid-template-rows: repeat(3,1fr);
         }
         #container1>div:nth-child(1){
-    
+   
     width:100%;
 }
 #container1>div:nth-child(1)>p{
@@ -30,7 +30,7 @@
     /* color:#000000DE; */
     font-size: 16px;
     opacity: 100%;;
-    
+   
 }
 #container1>div:nth-child(1)>input{
     width:100%;
@@ -41,7 +41,7 @@
     outline: none;;
 }
 #container1>div:nth-child(2){
-    
+   
     width:109%;
     margin-left: -12px;
 }
@@ -51,8 +51,8 @@
     /* color:#000000DE; */
     font-size: 16px;
     opacity: 100%;;
-    
-}     
+   
+}    
        .dropdown{
         width:100%;
        }
@@ -65,7 +65,7 @@
             grid-template-columns: repeat(1,1fr);
         }
         #container1>div:nth-child(3){
-    
+   
     width:108%;
     margin-left: -14px;
 }
@@ -105,30 +105,30 @@
                     <div onclick="show('Airport')">Airport</div>
                 </div>
             </div>
-            
+           
         </div>
         <div>
-            <button>SEARCH</button>
+            <button onclick="search()">SEARCH</button>
         </div>
     </div>
     <p id="heading1">Popular searches</p>
     <div id="container2">
-        <div>
+        <div onclick="LosAngeles()">
             <img src="https://parking.airgarage.com/static/media/hollywood.3cda80f5.png" alt="">
             <p>Los Angeles</p>
             <p>15 spots available</p>
         </div>
-        <div>
+        <div onclick="Omaha()">
             <img src="https://parking.airgarage.com/static/media/omaha.47180892.png" alt="">
             <p>Omaha</p>
             <p>14 spots available</p>
         </div>
-        <div>
+        <div onclick="AnnArbor()">
             <img src="https://parking.airgarage.com/static/media/a2.29e68f98.png" alt="">
             <p>Ann Arbor</p>
             <p>12 spots available</p>
         </div>
-        <div>
+        <div onclick="Tempe()">
             <img src="https://parking.airgarage.com/static/media/cacti.0300cb19.png" alt="">
             <p>Tempe</p>
             <p>21 spots available</p>
@@ -140,5 +140,5 @@
     </div>
 </body>
 </html>
-
+ 
 <script src='./script/findparking.js'></script>

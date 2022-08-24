@@ -26,7 +26,6 @@
 }
 #container1{
     width:70%;
-    
     margin: auto;
     margin-top: 30px;
     height:auto;
@@ -34,7 +33,7 @@
     gap:10px;
 }
 #container1>div:nth-child(1){
-    
+   
     width:50%;
 }
 #container1>div:nth-child(1)>p{
@@ -43,7 +42,7 @@
     /* color:#000000DE; */
     font-size: 16px;
     opacity: 100%;;
-    
+   
 }
 #container1>div:nth-child(1)>input{
     width:98%;
@@ -54,7 +53,7 @@
     outline: none;;
 }
 #container1>div:nth-child(2){
-    
+   
     width:25%;
 }
 #container1>div:nth-child(2)>p{
@@ -63,14 +62,14 @@
     /* color:#000000DE; */
     font-size: 16px;
     opacity: 100%;;
-    
+   
 }
 .dropdown{
     position: relative;
     margin-top: -5px;
     font-family:Arial, Helvetica, sans-serif;
     color:rgb(193, 193, 193);
-    
+   
     /* opacity: 80%; */
     /* width:90%;
     height:40px;
@@ -80,14 +79,14 @@
     cursor: pointer;
     outline: none;; */
 }
-
+ 
 .dropdown::before{
     content: '';
     position: absolute;
     z-index: 10000;
 }
 .dropdown.active::before{
-
+ 
 }
 .dropdown.active .option{
     display: block;
@@ -120,7 +119,7 @@
     display:none;
     z-index: 1000;
 }
-
+ 
 .dropdown .option div{
     width:75%;
     padding: 12px 20px;
@@ -143,7 +142,7 @@ left:0;
 top:100%;
 }
 #container1>div:nth-child(3){
-    
+   
     width:25%;
 }
 #container1>div:nth-child(3)>button{
@@ -153,7 +152,7 @@ top:100%;
     background-color: #FFEECC;
     color:#FA824C;
     border:none;
-    margin-top: 27px;
+    margin-top: 31px;
     margin-left: 15px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 800px;
@@ -180,12 +179,12 @@ font-family:Arial, Helvetica, sans-serif;
     gap:30px;
 }
 #container2>div{
-    
-
+   
+ 
 }
 #container2>div>img{
     width:100%;
-    
+   
 }
 #container2>div>p:nth-child(2) {
     font-size: 24px;
@@ -224,7 +223,7 @@ font-family:Arial, Helvetica, sans-serif;
     padding: 0px 0px 0px 0px;;
 }
 /* .fa-solid {
-    
+   
     margin-left: 230px;
     position: relative;
     top:20px;
@@ -235,4 +234,15 @@ font-family:Arial, Helvetica, sans-serif;
 }
 #type{
     margin-left: 12px;
+}
+::placeholder{
+    font-size: 15px;
+}
+.dropdown>input{
+    font-size: 15px;
+    padding-left: 10px;
+}
+#search{
+    font-size: 15px;
+    padding-left: 10px;
 }
