@@ -1,0 +1,118 @@
+body {
+  margin: 0%;
+  min-height: 100%;
+  background-color: #fff;
+  font-family: Arial, sans-serif;
+
+  line-height: 20px;
+  color: #333;
+}
+#navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+#navbar div img {
+  width: 138px;
+  padding-top: 10px;
+}
+#nav {
+  margin-top: 20px;
+}
+#nav a {
+  color: #222222;
+  font-family: sans-serif;
+  padding: 20px;
+}
+#parking_logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+#parking_logo p {
+  width: 70%;
+  font-family: "Louis george cafe", sans-serif;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#parking_logo h1 {
+  line-height: 44px;
+  margin-top: 20px;
+  font-size: 40px;
+}
+#parking_logo a {
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding: 20px 30px;
+  border-radius: 5px;
+  background-color: #fec;
+  transition: opacity 225ms ease;
+  font-family: "Louis george cafe", sans-serif;
+  color: #fa824c;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+#partner {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  gap: 50px;
+  margin-top: 100px;
+}
+#icon {
+  display: flex;
+  gap: 40px;
+}
+#icon img {
+  width: 80px;
+}
+#revenue,
+#proposition {
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+}
+.value {
+  margin-top: 30px;
+  display: flex;
+  gap: 20px;
+}
+.value div {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.value img {
+  width: 50px;
+}
+#deal {
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  border-radius: 7px;
+  background-color: #f7f7f7;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 20px 40px 40px;
+}
+#deal h1 {
+  color: black;
+}
+#publicParking {
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  gap: 20px;
+}
