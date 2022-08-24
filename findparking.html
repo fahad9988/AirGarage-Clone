@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Find Parking</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='./style/findparking.css'>
+    <script src="https://kit.fontawesome.com/61b5f940e7.js" crossorigin="anonymous"></script>
+    <style>
+
+
+
+
+
+        @media screen and (min-width: 320px) and (max-width:750px){
+           
+            #container1{
+                width:90%;
+            display: grid;
+            grid-template-rows: repeat(3,1fr);
+        }
+        #container1>div:nth-child(1){
+    
+    width:100%;
+}
+#container1>div:nth-child(1)>p{
+    margin-top: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    /* color:#000000DE; */
+    font-size: 16px;
+    opacity: 100%;;
+    
+}
+#container1>div:nth-child(1)>input{
+    width:100%;
+    height:50px;
+    border-radius: 5px;
+    background-color: #F2F2F2;
+    border:none;
+    outline: none;;
+}
+#container1>div:nth-child(2){
+    
+    width:109%;
+    margin-left: -12px;
+}
+#container1>div:nth-child(2)>p{
+    margin-top: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    /* color:#000000DE; */
+    font-size: 16px;
+    opacity: 100%;;
+    
+}     
+       .dropdown{
+        width:100%;
+       }
+         
+       
+       
+       
+       #container2{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+        }
+        #container1>div:nth-child(3){
+    
+    width:108%;
+    margin-left: -14px;
+}
+#container1>div:nth-child(3)>button{
+    width:92%;
+    height:50px;
+    border-radius: 5px;
+    background-color: #FFEECC;
+    color:#FA824C;
+    border:none;
+    margin-top: 27px;
+    margin-left: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    font-size: 16px;
+}
+        }
+    </style>
+</head>
+<body>
+    <img id="logo" src="https://parking.airgarage.com/static/media/AirGarage.919cc784.png" alt="">
+    <p id="header1">Find Parking</p>
+    <p id="header2">100s of spots available near you.</p>
+    <div id="container1">
+        <div>
+            <p>LOCATION</p>
+            <input id="search" type="search" placeholder="Enter an address">
+        </div>
+        <div>
+            <p id="type">TYPE</p>
+            <div class="dropdown">
+                <!-- <i class="fa-solid fa-caret-down"></i> -->
+                <input type="text" class="textBox" placeholder="Monthly" value="Monthly" readonly>
+                <div class="option">
+                    <div onclick="show('Hourly')">Hourly</div>
+                    <div onclick="show('Monthly')">Monthly</div>
+                    <div onclick="show('Airport')">Airport</div>
+                </div>
+            </div>
+            
+        </div>
+        <div>
+            <button>SEARCH</button>
+        </div>
+    </div>
+    <p id="heading1">Popular searches</p>
+    <div id="container2">
+        <div>
+            <img src="https://parking.airgarage.com/static/media/hollywood.3cda80f5.png" alt="">
+            <p>Los Angeles</p>
+            <p>15 spots available</p>
+        </div>
+        <div>
+            <img src="https://parking.airgarage.com/static/media/omaha.47180892.png" alt="">
+            <p>Omaha</p>
+            <p>14 spots available</p>
+        </div>
+        <div>
+            <img src="https://parking.airgarage.com/static/media/a2.29e68f98.png" alt="">
+            <p>Ann Arbor</p>
+            <p>12 spots available</p>
+        </div>
+        <div>
+            <img src="https://parking.airgarage.com/static/media/cacti.0300cb19.png" alt="">
+            <p>Tempe</p>
+            <p>21 spots available</p>
+        </div>
+    </div>
+    <div id="footer">
+        <p>©2021 AirGarage, Inc</p>
+        <p>Homepage   Terms   Contact us</p>
+    </div>
+</body>
+</html>
+
+<script src='./script/findparking.js'></script>
