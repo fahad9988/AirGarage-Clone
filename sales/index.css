@@ -17,15 +17,17 @@
     width: 5px;
     font-size:50px;
     margin-top: 100px;
+    font-family: 'Louis george cafe', sans-serif;
 }
 #hfirst a{
     color: gray;
 }
 #hfirst button{
     font-size:13px;
-    width: 165px;
+    width: 285px;
     height: 55px;
     color: white;
+    word-spacing:3px ;
     background-color: rgb(190, 67, 22);
     border-radius: 8px;
     font-weight: bold;
@@ -34,6 +36,7 @@
 #hfirst button:hover{
   background-color: white;
   color:rgb(19, 18, 18);
+  transition: 1s;
 }
 #hfirst img~img{
     width:350px;
@@ -75,8 +78,9 @@
 }
 #csecond button{
     font-size:13px;
-    width: 145px;
-    height: 45px;
+    width: 295px;
+    height: 55px;
+    word-spacing: 2px;
     color: gray;
     border-radius: 8px;
     font-weight: bold;
@@ -86,6 +90,7 @@
 #csecond button:hover{
     background-color:rgb(39, 38, 38);
     color:white;
+    transition: 1s;
   }
   #bfirst{
     width: 100%;
@@ -170,8 +175,8 @@
     width: 670px;
     height: 70px;
     border-radius: 8px ;
-    background-color: coral;
-    color: white;
+    background-color:white;
+    color:black;
     margin-top: 20px;
     font-size: 20px;
 }
@@ -183,10 +188,14 @@
     background-color: black;
     margin-top: 15px;
     color: white;
+    
 }
 #bfifth>h5{
     padding-left: 255px;
     margin-bottom: -40px;
+    font-weight: lighter;
+    font-size: medium;
+    color: rgb(114, 111, 111);
 }
 #ffirst{
    
@@ -238,6 +247,7 @@
 #fsecond>div>button:hover{
     background-color: rgb(41, 39, 39);
     color: white;
+    transition: 1s;
 }
 #fsec>div{  
     margin-top: 50px;
@@ -284,6 +294,7 @@
  #fsec>div>button:hover{
      background-color: rgb(41, 39, 39);
      color: white;
+     transition: 1s;
  }
 
  #fthird>div{  
@@ -327,6 +338,7 @@
  #fthird>div>button:hover{
      background-color: rgb(41, 39, 39);
      color: white;
+     transition: 1s;
  }
  
  #ffourth{
@@ -377,6 +389,7 @@
 #ffourth>button:hover{
     background-color: rgb(41, 39, 39);
     color: white;
+    transition: 1s;
 }
 #ffourth  h1{
     font-weight:normal ;
