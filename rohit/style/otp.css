@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Lato:wght@300;400;700&family=Macondo&family=Open+Sans:wght@300;500&family=PT+Sans+Narrow&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,200&family=Roboto+Mono:ital,wght@1,500&family=Ubuntu:wght@300&family=Water+Brush&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.signin-container {
+    display: flex; 
+}
+
+.signin-container .img-box {
+    width: 37%;
+    background-color: #ffeecc;
+    
+}
+
+.img-box #small-img {
+    height: 34%;
+    padding: 10px;
+}
+
+.img-box #small-img img {
+    width: 40%;
+}
+
+.img-box #large-img img {
+    width: 90%;
+}
+
+.signin-container .form-box {
+    width: 63%;
+    background-color: white;
+    height: 100vh;
+}
+
+.form-box h2 {
+    margin-top: 20vh;
+    font-weight: 700;
+    width: 100%;   
+    line-height: 1.2em;  
+    /* display: none;  */
+}
+
+#otp{
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#otp input{
+    height: 70px;
+    width: 14%;
+    border-radius: 5px;
+    border: 1px solid rgba(200, 198, 198,.5);
+    outline:none;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 20px 0;
+    background-color: #FFFFFF; 
+}
+
+#otp input:focus{
+    border: 1px solid #cce2ff;
+}
+
+.form-content {
+    width: 50%;
+    margin: auto;
+    
+}
+
+
+#error{
+    width: 100%;
+    border: 1px solid #FF1678;
+    background-color: #ffedf9;
+    border-radius: 5px;
+    text-align: left;
+    margin-top: 20vh;
+    padding: 15px 20px;
+    line-height: 1.3em;
+    display: none;
+}
+#error h4{
+font-size: 1em;
+color: #FF1678;
+}
+
+#error p{
+    text-align: left;
+    font-size: .8em;
+    margin-bottom: 0px;
+    color: #FF1982;
+    opacity: .7;
+}
+#error p a{
+    text-decoration: none;
+    color: #FF1982;
+    cursor: pointer;
+     
+}
+
+
+
+#submit-btn {
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+    color: #FA824C;
+    background-color: #FFEECC;
+    font-size: 1em;
+}
+
+#resend{
+    margin-top: 10px;
+    font-size: 1em;
+}
+#resend span{
+    color: #4183c4;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 1200px){
+    .signin-container .img-box{
+        display: none;
+    }
+    .form-box {
+        width: 100%;
+    }
+    .form-box {
+        width: 100%;
+    }
+    #otp input{
+        width: 50px;
+    }
+}
