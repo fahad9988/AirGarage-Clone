@@ -63,6 +63,9 @@ if(rent=="Monthly" || rent=="Daily"){
   subsubbox.append(subsubsubbox1,subsubsubbox2);
   subbox1.append(imag);
   box.append(subbox1,subbox2);
+  box.addEventListener("click",()=>{
+        booking({image,location,price,rating,title})
+  })
   document.querySelector("#container1").append(box);
   map.src=`https://maps.google.com/maps?q=${places}&t=&z=13&ie=UTF8&iwloc=&output=embed`
   })
@@ -111,6 +114,9 @@ if(rent=="Monthly" || rent=="Daily"){
   subsubbox.append(subsubsubbox1,subsubsubbox2);
   subbox1.append(imag);
   box.append(subbox1,subbox2);
+  box.addEventListener("click",()=>{
+    booking({image,location,price,rating,title})
+})
   document.querySelector("#container1").append(box);
   map.src=`https://maps.google.com/maps?q=${places}&t=&z=13&ie=UTF8&iwloc=&output=embed`
   })
@@ -122,6 +128,10 @@ if(rent=="Monthly" || rent=="Daily"){
 append(datas);
  
  
+let booking=(data) => {
+  localStorage.setItem("ParkingSlot",JSON.stringify(data));
+  window.location.href="booking.html";
+}
  
  
  
