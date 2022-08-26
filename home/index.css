@@ -90,6 +90,14 @@ footer img {
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
+.value img {
+  transform: scale(1);
+  transition-property: transform;
+  transition-duration: 200ms;
+}
+.value img:hover {
+  transform: scale(1.2);
+}
 .value div {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 20px;
@@ -113,6 +121,12 @@ footer img {
   cursor: pointer;
   padding: 20px 40px 40px;
   line-height: 20px;
+  transform: scale(1);
+  transition-property: transform;
+  transition-duration: 400ms;
+}
+.deal:hover {
+  transform: scale(1.15);
 }
 .deal h1 {
   color: black;
@@ -153,6 +167,7 @@ footer img {
   color: #dd703f;
   font-size: 13px;
 }
+
 .ag-footer-link {
   display: block;
   padding-top: 0px;
@@ -200,6 +215,12 @@ footer {
 #dashboard img {
   width: 80%;
 }
+.menu_button {
+  display: none;
+}
+#click {
+  display: none;
+}
 
 @media all and (min-width: 320px) and (max-width: 767px) {
   #partner {
@@ -219,5 +240,44 @@ footer {
   }
   #partner_spotlight div:nth-child(2) {
     flex-direction: column;
+  }
+  #parking_logo {
+    text-align: center;
+  }
+}
+
+@media all and (max-width: 550px) {
+  .footer_page {
+    flex-direction: column;
+  }
+  footer {
+    text-align: center;
+  }
+  #nav {
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    position: relative;
+    top: 50px;
+    border: 2px solid lightblue;
+    height: 200px;
+    width: 150%;
+    border-radius: 10px;
+    display: none;
+    transition: all 0.3s ease;
+  }
+  #click:checked ~ #nav {
+    display: flex;
+    flex-direction: column;
+    left: -100%;
+  }
+
+  .menu_button {
+    font-size: 20px;
+    display: block;
+    margin: 20px 40px;
+
+    color: #dd703f;
+    padding: 3px;
   }
 }
