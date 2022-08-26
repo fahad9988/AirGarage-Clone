@@ -3,7 +3,6 @@ body {
   min-height: 100%;
   background-color: #fff;
   font-family: Arial, sans-serif;
-
   line-height: 20px;
   color: #333;
 }
@@ -12,7 +11,8 @@ body {
   justify-content: space-around;
 }
 
-#navbar div img {
+#navbar div img,
+footer img {
   width: 138px;
   padding-top: 10px;
 }
@@ -20,6 +20,7 @@ body {
   margin-top: 20px;
 }
 #nav a {
+  text-decoration: none;
   color: #222222;
   font-family: sans-serif;
   padding: 20px;
@@ -46,6 +47,7 @@ body {
   font-size: 40px;
 }
 #parking_logo a {
+  text-decoration: none;
   font-size: 20px;
   margin-bottom: 20px;
   padding: 20px 30px;
@@ -60,11 +62,13 @@ body {
 #partner {
   width: 70%;
   margin: auto;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   justify-content: space-around;
   gap: 50px;
   margin-top: 100px;
 }
+
 #icon {
   display: flex;
   gap: 40px;
@@ -73,14 +77,17 @@ body {
   width: 80px;
 }
 #revenue,
-#proposition {
+#proposition,
+#investor,
+#partner_spotlight {
   width: 70%;
   margin: auto;
   margin-top: 100px;
 }
 .value {
   margin-top: 30px;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 .value div {
@@ -91,7 +98,7 @@ body {
 .value img {
   width: 50px;
 }
-#deal {
+.deal {
   width: 70%;
   margin: auto;
   margin-top: 100px;
@@ -105,9 +112,13 @@ body {
   text-decoration: none;
   cursor: pointer;
   padding: 20px 40px 40px;
+  line-height: 20px;
 }
-#deal h1 {
+.deal h1 {
   color: black;
+}
+.deal a {
+  text-decoration: none;
 }
 #publicParking {
   width: 70%;
@@ -115,4 +126,98 @@ body {
   margin-top: 100px;
   display: flex;
   gap: 20px;
+}
+
+.investor_name {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 25px;
+  grid-row-gap: 9px;
+  justify-items: center;
+  margin-top: 50px;
+}
+.investor_name img {
+  width: 150px;
+}
+#partner_spotlight div:nth-child(2) {
+  display: flex;
+  gap: 20px;
+}
+#partner_spotlight h3 {
+  font-weight: 500;
+}
+#partner_spotlight a {
+  text-decoration: none;
+  padding-top: 0px;
+  font-family: "Louis george cafe", sans-serif;
+  color: #dd703f;
+  font-size: 13px;
+}
+.ag-footer-link {
+  display: block;
+  padding-top: 0px;
+  font-family: "Louis george cafe", sans-serif;
+  color: #dd703f;
+  font-size: 13px;
+  text-decoration: none;
+}
+footer {
+  background-color: #fec;
+  margin-top: 100px;
+}
+.footer_page {
+  padding-top: 30px;
+  width: 70%;
+  margin: auto;
+
+  display: flex;
+  justify-content: space-between;
+}
+#footer_bottom {
+  width: 70%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+#dashboard {
+  width: 70%;
+  margin: auto;
+  margin-top: 100px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+}
+#dashboard div:nth-child(1) {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+  font-weight: 200;
+}
+#dashboard p:hover {
+  cursor: pointer;
+  background-color: #ddd;
+  padding: 10px;
+}
+#dashboard img {
+  width: 80%;
+}
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+  #partner {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .value {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .investor_name {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #dashboard div:nth-child(1) {
+    flex-direction: column;
+  }
+  #publicParking {
+    flex-direction: column;
+  }
+  #partner_spotlight div:nth-child(2) {
+    flex-direction: column;
+  }
 }
