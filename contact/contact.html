@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Contact Us</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='contact.css'>
+    <script src="https://kit.fontawesome.com/61b5f940e7.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="logo">
+    <img src="https://parking.airgarage.com/static/media/share.ab0a9184.png" alt="">
+    
+</div>
+<p id="contact">Contact Us</p>
+<div id="container">
+    <p class="text">Name <span><i class="fa-solid fa-star-of-life"></i></span></p>
+    <input class="input" type="text" placeholder="Joe Garage">
+
+    <p class="text">Email <span><i class="fa-solid fa-star-of-life"></i></span></p>
+    <input class="input" type="text" placeholder="Where should we contact You?">
+    <p class="text">Phone Number <span><i class="fa-solid fa-star-of-life"></i></span></p>
+    <input class="input" type="text" placeholder="Account Phone Number">
+    <p class="text">Plate <span></span></p>
+    <input class="input" type="text" placeholder="License plate if you know it">
+    <p class="text">Topic <span><i class="fa-solid fa-star-of-life"></i></span></p>
+    <div class="dropdown">
+        <input type="text" class="textBox" placeholder="Select a Topic" value="Select a Topic" readonly>
+        <div class="option">
+            <div onclick="show('Incorrect or Unrecognized charge')">Incorrect or Unrecognized charge</div>
+            <div onclick="show('Forgot to end rental')">Forgot to end rental</div>
+            <div onclick="show('Bug or Error')">Bug or Error</div>
+            <div onclick="show('Incorrect Parking Ticket')">Incorrect Parking Ticket</div>
+            <div onclick="show('Question about Rental')">Question about Rental</div>
+            <div onclick="show('Car Immobilized or Toed')">Car Immobilized or Toed</div>
+            <div onclick="show('Discount/ Validation Code Issue')">Discount/ Validation Code Issue</div>
+            <div onclick="show('Other')">Other</div>
+        </div>
+    </div>
+    <p class="text">Message <span><i class="fa-solid fa-star-of-life"></i></span></p>
+    <!-- <input id="message" type="text" placeholder="What can we help you with? Include any relevant details about your rental!"> -->
+    <textarea id="message" name="message" rows="5" cols="20" placeholder=" What can we help you with? Include any relevant details about your rental!"></textarea> <br>
+    <button id="btn">SUBMIT</button>
+</div>
+
+</body>
+</html>
+
+<script src='contact.js'></script>

@@ -1,0 +1,159 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    
+    display: flex;
+}
+#logo>img{
+    text-align: center;
+    width:5.3%;
+    height:auto;
+    margin: auto; 
+    margin-top: 70px;
+}
+#contact{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    opacity: 87%;
+}
+#container{
+    width:82%;
+    height:600px;
+    
+    margin: auto;
+}
+.text{
+    font-size: 16px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input{
+    background-color: #F2F2F2;
+    border:none;
+    outline: none;
+    width:97%;
+    height:40px;
+    margin: auto;
+    font-family: bold;
+    color: rgb(154, 154, 154);
+    font-size: 16px;
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+.input>text{
+    margin-left: 10px;
+    color:rgb(195, 195, 195);
+}
+#message{
+    background-color: #F2F2F2;
+    border:none;
+    outline: none;
+    width:97.5%;
+    height:140px;
+    margin: auto;
+    margin-top: -5px;
+    font-family: bold;
+    color: rgb(163, 163, 163);
+    font-size: 16px; 
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+textarea{
+    resize: vertical;
+}
+#btn{
+    width:98.5%;
+    height:50px;
+    margin: auto;
+    border:none;
+    outline: none;
+    background-color: #FFEECC;
+    color:#FA824C;
+    font-size: 18px;
+    font-weight: 800px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.dropdown{
+    position: relative;
+    margin-top: -5px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(193, 193, 193);
+   /* padding-left: 10px; */
+    /* opacity: 80%; */
+    /* width:90%;
+    height:40px;
+    border:1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    outline: none;; */
+}
+ 
+.dropdown::before{
+    content: '';
+    position: absolute;
+    z-index: 10000;
+}
+.dropdown.active::before{
+ 
+}
+.dropdown.active .option{
+    display: block;
+}
+.dropdown>input{
+    width:97.2%;
+    height:40px;
+    border:1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    padding-left: 10px;
+    cursor: pointer;
+    outline: none;;
+    color:rgb(141, 141, 141);
+    font-weight: 800px;
+    font-size: 16px;
+}
+.dropdown .option {
+    position: absolute;
+    /* top:50px; */
+    width:98.5%;
+    background: #fff;;
+    box-shadow: 0 30x 30x rgba(0,0,0,0.05);
+    border:1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 5px;
+    margin-left: 0px;
+    color: rgb(155, 155, 155);
+    display:none;
+    z-index: 1000;
+}
+ 
+.dropdown .option div{
+    width:95%;
+    padding: 12px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6px;
+    margin-left: 9px;
+}
+.dropdown .option div:hover{
+    background-color: rgb(210, 231, 231);
+}
+.fa-star-of-life{
+    font-size: 7px;
+    color:rgb(209, 35, 23);
+    margin-top: -10px;
+}
