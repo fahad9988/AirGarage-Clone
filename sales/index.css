@@ -1,3 +1,6 @@
+*{
+font-family: "Lato",sans-serif;
+}
 
 #header{
     width: 100%;
@@ -132,6 +135,8 @@
 #bfourth h2{
     font-size: 30px;
     color: rgb(197, 192, 192);
+    line-height: 44px;
+    word-spacing: 3px;
 }
 #bfourth a{
     color: white;
@@ -342,21 +347,23 @@
  }
  
  #ffourth{
-    
-    width: 70%;
+  
+    width: 85%;
     margin: auto;
     margin-top: 100px;
  }
  #ffourth>h3{
  text-align: center;
- font-size: 35px;
- font-weight: lighter;
+ font-size: 45px;
+ font-weight: 500;
  }
  #ffourth>h4{
-    text-align: center;
-    font-size: 21px;
+    text-align: center;  
     font-weight: lighter;
     color: rgb(94, 92, 92);
+    word-spacing: 5px;
+    line-height: 44px;
+      font-size: 24px;
  }
  #ffourth img{
     width: 50px;
@@ -369,11 +376,13 @@
  }
  #ffourth>h2{
     color: gray;
-    font-size: 20px;
+    word-spacing: 3px;
+    line-height: 44px;
+      font-size: 23px;
     font-weight: lighter;
     margin-left:74px;   
-    word-spacing: 3px;
-    line-height: 20px;
+    
+    
 
  }
  #ffourth>button{
@@ -392,7 +401,9 @@
     transition: 1s;
 }
 #ffourth  h1{
-    font-weight:normal ;
+    color: rgb(43, 42, 42);
+        font-size:44px;
+        font-weight:bold;
 }
  #ffifth{
     padding-top:120px;
@@ -414,8 +425,8 @@
     
  }
  #fsixth>img{
-    width: 90px;
-    height: 90px;
+    width: 130px;
+    height: 130px;
     border-radius: 45%;
    
     margin-top: 20px;
@@ -425,10 +436,12 @@
     font-weight: lighter;
  }
  #fsixth>h3{
-    color: rgb(32, 31, 31);
+    color: rgb(59, 59, 59);
     word-spacing:2px ;
-    font-weight:200px ;
+    font-weight:60px ;
     line-height:28px ;
+    font-size: 16px;
+    
  }
  #fsixth>img~img{
     height:30px ;
