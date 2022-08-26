@@ -960,7 +960,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$0.00",
+    "price": "$19.00",
     "rating": 4.6,
     "title": "Arts District Parking",
     "location": "13 E Lafayette Ave Baltimore, MD 21202"
@@ -1042,7 +1042,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$0.00",
+    "price": "$19.00",
     "rating": 4.6,
     "title": "Arts District Parking",
     "location": "13 E Lafayette Ave Baltimore, MD 21202"
@@ -1081,7 +1081,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
-    "price": "$0.00",
+    "price": "$17.00",
     "rating": 4.6,
     "title": "Glass City Parking",
     "location": "318 N Erie St Toledo, OH 43604"
@@ -1089,7 +1089,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
-    "price": "$0.00",
+    "price": "$22.00",
     "rating": 4.8,
     "title": "Mud Hens Parking",
     "location": "143 11th St Toledo, OH 43604"
@@ -1121,7 +1121,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$0.00",
+    "price": "$15.00",
     "rating": 4.6,
     "title": "Arts District Parking",
     "location": "13 E Lafayette Ave Baltimore, MD 21202"
@@ -1159,7 +1159,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/9768EkCr2JiWtCJqFthtib/?rentalType=daily&ref=spot-search",
     "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$0.00",
+    "price": "$13.00",
     "rating": 4.7,
     "title": "Carmel-By-The-Sea Parking",
     "location": "61 Lincoln St Carmel-By-The-Sea, CA 93923"
@@ -1191,7 +1191,7 @@
   {
     "CheckoutPage": "https://parking.airgarage.com/spot/Kdy5PgXncq2RMYWMXzc83Y/?rentalType=daily&ref=spot-search",
     "image": "https://storage.googleapis.com/airgarage/943_1659471374_6352_.png",
-    "price": "$0.00",
+    "price": "$9.00",
     "rating": 4.5,
     "title": "Legacy Sports Lots 2 - 4 Parking",
     "location": "1 Legacy Dr Mesa, AZ 85212"
@@ -1212,7 +1212,14 @@
     "title": "City of Fountains Parking",
     "location": "1121 McGee St KCMO, MO 64106"
   }
- ]
+ ],
+
+
+
+
+
+
+ "StateArr":["Alaska", "Alabama", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Gregoria", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Utah", "Oregon", "Ohio", "New York", "Nevada", "Washington", "Virginia", "Texas", "West Virginia", "Vermont", "Wyoming", "South Dakota", "Oklahoma", "New Jersey", "New Mexico", "New Hemisphere", "Mississippi", "Montana"]
 
 
  
