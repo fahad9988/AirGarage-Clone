@@ -1,1228 +1,1183 @@
 {
- "LosAngeles":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/esSuWpobgfEppNx85YEDna/?rentalType=hourly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "Crypto Arena West Parking",
-    "location": "1306 W 11th St Los Angeles, CA 90015"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/3wkVBEEzxumFnzPw7zoDso/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1609279593.png",
-    "price": "$3.00",
-    "rating": 4.7,
-    "title": "Hollywood La Brea",
-    "location": "1655 N La Brea Ave Los Angeles, CA 90028"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/SkYsAVNgXkpWn43JktTXhN/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1641313698_5482_.png",
-    "price": "$4.00",
-    "rating": 4.6,
-    "title": "South Doheny Garage",
-    "location": "140 S Doheny Dr Beverly Hills, CA 90211"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZCuLcnkmapPUSAkBUjpF2N/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1580767816.png",
-    "price": "$1.00",
-    "rating": 4.8,
-    "title": "First Lutheran Church Culver City",
-    "location": "3728 Dunn Drive Los Angeles, CA 90034"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/gjBToUtjgkn9zVkVrJntS9/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1602370572.png",
-    "price": "$4.00",
-    "rating": 4.8,
-    "title": "Old Pasadena",
-    "location": "106 E Colorado Blvd Pasadena, CA 91105"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/KoDEpyj7YCtdG6j67od2pB/?rentalType=hourly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$4.00",
-    "rating": 4.7,
-    "title": "Playhouse Village Parking",
-    "location": "676 E Green St Pasadena, CA 91101"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
-    "price": "$4.00",
-    "rating": 4.5,
-    "title": "Hilgard Garage Westwood",
-    "location": "1015 Hilgard Ave Los Angeles, CA 90024"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/WsrwLxkVxk3xUnhfdQzpjV/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1580762044.png",
-    "price": "$1.25",
-    "rating": 4.6,
-    "title": "Pauline Books & Media",
-    "location": "3908 Sepulveda Blvd Culver City, CA 90230"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ccCkNXw2HHfdxkNEy53KDt/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610301104.png",
-    "price": "$4.00",
-    "rating": 4.6,
-    "title": "Broxton Ave",
-    "location": "900 Broxton Ave Los Angeles, CA 90024"
-  }
- ],
-
-
-
-
-
-
- "Omaha":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/e5zbeYWPqpLhToYBZhnthz/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1591824352.png",
-    "price": "$3.00",
-    "rating": 4.6,
-    "title": "15th & Harney Parking",
-    "location": "1415 Harney St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/JHAz5xssCrWUSfWRVneK7K/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1591893272.png",
-    "price": "$2.50",
-    "rating": 4.6,
-    "title": "Harney Street Parking",
-    "location": "1013 Harney St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/eWoVUAcnjWcqwMjzHbsZUf/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1594848726.png",
-    "price": "$2.50",
-    "rating": 4.6,
-    "title": "Old Market Parking",
-    "location": "519 S 11th St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/aiLy9VPPoPo3kciKfBLzeZ/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1604777348.png",
-    "price": "$1.25",
-    "rating": 4.8,
-    "title": "Farnam Street Lot",
-    "location": "2040 Farnam St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/SQQfNwVaKzkKFo5Vc5Gexd/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1604777303.png",
-    "price": "$1.50",
-    "rating": 4.6,
-    "title": "Douglas Street Parking",
-    "location": "2309 Douglas St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/nA2rjzPnkKAyNGn6555GiA/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1604777259.png",
-    "price": "$1.25",
-    "rating": 4.7,
-    "title": "Highline Apartments",
-    "location": "2223 Dodge St Omaha, NE 68102"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/9sSAjmNvWApKa9eGzNacwu/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1596413069.png",
-    "price": "$1.25",
-    "rating": 4.8,
-    "title": "Webster Lot",
-    "location": "3158 Webster St Omaha, NE 68131"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/YR9jBfs4iDDj6u4BTiKEnz/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1573158670.png",
-    "price": "$5.00",
-    "rating": 4.5,
-    "title": "14th & Wyandotte Parking",
-    "location": "106 W 14th St Kansas City, MO 64105"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/N9fWwFS4WXKqiKQyta6fdC/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713992_5700_.png",
-    "price": "$4.00",
-    "rating": 4.6,
-    "title": "City of Fountains Parking",
-    "location": "1121 McGee St KCMO, MO 64106"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/NVfMgWhoGhVj97856BxVmK/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1582735348.png",
-    "price": "$3.00",
-    "rating": 4.7,
-    "title": "Stillwater Parking Ramp",
-    "location": "200 2nd St N Stillwater, MN 55082"
-  }
- ],
-
-
-
-
-
-
-
- "AnnArbor":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/jc75rYWHafdjRxqsxUrmts/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1568827211.png",
-    "price": "$2.00",
-    "rating": 4.8,
-    "title": "First Baptist Church",
-    "location": "517 E Washington St Ann Arbor, MI 48104"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/fu686HVfdPKP5C32QuannB/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1568913780.png",
-    "price": "$2.00",
-    "rating": 4.8,
-    "title": "FUMC Ann Arbor",
-    "location": "120 S State St Ann Arbor, MI 48104"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/eu4baNwgsmc3MWjo6WRio6/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1591886793.png",
-    "price": "$2.00",
-    "rating": 4.6,
-    "title": "Liberty Street Parking",
-    "location": "315 E Liberty St Ann Arbor, MI 48104"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/dim5uUYmBK2ysH6k7GMDU6/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1576013163.png",
-    "price": "$2.00",
-    "rating": 4.5,
-    "title": "University of Michigan Hillel",
-    "location": "1429 Hill St Ann Arbor, MI 48104"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/7FNC2Yxf5kT5DbZiu6Gkkx/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1565054004.png",
-    "price": "$1.00",
-    "rating": 4.7,
-    "title": "Ypsilanti Performance Space",
-    "location": "218 N Adams St Ypsilanti, MI 48197"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/U8azLTYYnq2shRn974Petn/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1603153139.png",
-    "price": "$1.50",
-    "rating": 4.8,
-    "title": "Corktown Community Parking Lot",
-    "location": "2274 14th St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/cHL2JqQNwd4YUdpiLcWqpZ/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1573681701.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "2273 Harrison Street",
-    "location": "2273 Harrison St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Gim5ovJacWe8t63V4gYzNT/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1619045208.png",
-    "price": "$3.00",
-    "rating": 4.6,
-    "title": "Bennett Park Lot",
-    "location": "2231 Cochrane St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/VoeZhwiQX9WpfgWwV6yqmY/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1593460180.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "Ballpark Lot",
-    "location": "2269 Cochrane St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "The Detroit Club",
-    "location": "300 W Fort St Detroit, MI 48226"
-  }
- ],
-
-
-
-
-
-
- "Tempe":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Y8uewVbqN2KhFr4DGLv549/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/297_1527975194.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "University Inn & Suites",
-    "location": "902 S Mill Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/gmagVh92T3SMLmPhWyByeY/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/302_1528935285.png",
-    "price": "$2.75",
-    "rating": 4.5,
-    "title": "Catholic Newman Center",
-    "location": "221 E 7th St Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/aT4PnUBLR3cJTescybHmE2/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/324_1530246514.png",
-    "price": "$2.50",
-    "rating": 4.6,
-    "title": "ASU Hillel",
-    "location": "1012 S Mill Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/iaZ6K3EXJs2L6uLXnkJZF9/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1562622604.png",
-    "price": "$2.50",
-    "rating": 4.7,
-    "title": "1020 S Mill Avenue",
-    "location": "1020 S Mill Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PPzn7UhnTLE3T9NWb6eChW/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/417_1536696815.png",
-    "price": "$2.50",
-    "rating": 4.6,
-    "title": "Campus Christian Center",
-    "location": "1034 S Mill Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/dKnRSb4GvBDRwiY6osXa8Y/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/289_1534974633.png",
-    "price": "$4.00",
-    "rating": 4.7,
-    "title": "First United Methodist Church",
-    "location": "255 E University Dr Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Bv9Jwdcu2n6PdkQzSB82Pt/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/290_1526593316.png",
-    "price": "$3.50",
-    "rating": 4.8,
-    "title": "Graduate Tempe",
-    "location": "277 E Apache Blvd Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/XdaScT3Mmwr5dHuPpd4SbR/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218373_551_.png",
-    "price": "$1.00",
-    "rating": 4.6,
-    "title": "Community Christian Church",
-    "location": "1701 S College Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/WEunnxZaaxVsHrCXHpYroB/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1570665137.png",
-    "price": "$1.00",
-    "rating": 4.6,
-    "title": "St. Augustine's",
-    "location": "1735 S College Ave Tempe, AZ 85281"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/6xv2cXhdWLZf9SudFTXsoL/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/451_1544841458.png",
-    "price": "$7.00",
-    "rating": 4.8,
-    "title": "University Pointe",
-    "location": "919 E Lemon St Tempe, AZ 85281"
-  }
- ],
-
-
-
- 
- "Queens":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
-    "price": "$6.00",
-    "rating": 4.6,
-    "title": "La Mirage Garage",
-    "location": "178-10 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
-    "price": "$8.00",
-    "rating": 4.5,
-    "title": "Wilshire Garage",
-    "location": "183-3 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
-    "price": "$9.00",
-    "rating": 4.5,
-    "title": "Wilshire Outdoor Parking",
-    "location": "183-3 Hillside Avenue Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/HqRZTfJN2ZHVCWzXfo9xEM/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304323.png",
-    "price": "$2.00",
-    "rating": 4.5,
-    "title": "Southbury Travel Center",
-    "location": "997 Main St S Southbury, CT 06488"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
-    "price": "$2.00",
-    "rating": 4.7,
-    "title": "30 Butler",
-    "location": "30 Butler St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
-    "price": "$2.00",
-    "rating": 4.6,
-    "title": "60 Church",
-    "location": "60 Church St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Yr4UsGjgvkr47GYBurZaqV/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1571344853.png",
-    "price": "$1.50",
-    "rating": 4.8,
-    "title": "651 Park Street",
-    "location": "651 Park St Hartford, CT 06106"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
-    "price": "$5.00",
-    "rating": 4.8,
-    "title": "Parkadelphia",
-    "location": "1601 Callowhill St Philadelphia, PA 19130"
-  }
- ],
-
-
-
- "HartFord":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
-    "price": "$3.00",
-    "rating": 4.6,
-    "title": "Union Parking",
-    "location": "22 Union Pl Hartford, CT 06103"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Yr4UsGjgvkr47GYBurZaqV/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1571344853.png",
-    "price": "$1.50",
-    "rating": 4.8,
-    "title": "651 Park Street",
-    "location": "651 Park St Hartford, CT 06106"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
-    "price": "$2.00",
-    "rating": 4.5,
-    "title": "60 Church",
-    "location": "60 Church St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
-    "price": "$2.00",
-    "rating": 4.7,
-    "title": "30 Butler",
-    "location": "30 Butler St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/HqRZTfJN2ZHVCWzXfo9xEM/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304323.png",
-    "price": "$2.00",
-    "rating": 4.6,
-    "title": "Southbury Travel Center",
-    "location": "997 Main St S Southbury, CT 06488"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
-    "price": "$9.00",
-    "rating": 4.8,
-    "title": "Wilshire Outdoor Parking",
-    "location": "183-3 Hillside Avenue Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
-    "price": "$8.00",
-    "rating": 4.8,
-    "title": "Wilshire Garage",
-    "location": "183-3 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
-    "price": "$6.00",
-    "rating": 4.6,
-    "title": "La Mirage Garage",
-    "location": "178-10 Wexford Terrace Queens, NY 11432"
-  }
- ],
-
-
-
-
- "Canton":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/aLXqM4P5vzVnrZgMrUWATY/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636219490_4959_.png",
-    "price": "$2.00",
-    "rating": 4.8,
-    "title": "Canton Parking",
-    "location": "177 2nd St SW Canton, OH 44702"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5a4APF35GXXDZeyE5cfXJZ/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1570832286.png",
-    "price": "$1.00",
-    "rating": 4.8,
-    "title": "216 Mansfield Blvd",
-    "location": "216 Mansfield Blvd Carnegie, PA 15106"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/6Hk2NMbpzFKP4dFRsjkS3h/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1605549538.png",
-    "price": "$2.00",
-    "rating": 4.7,
-    "title": "Indianola Presbyterian Church",
-    "location": "1960 Waldeck Ave Columbus, OH 43201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/8pi9FfimnkMLNi7RTLkRgH/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1563311944.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "Summit on 16th",
-    "location": "82 E 16th Ave Columbus, OH 43201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/6b8JCfMmXzi4cZ2yrvNunp/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1591084307.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "High Street Parking",
-    "location": "1247 N High St Columbus, OH 43201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/MkzopLAyRSX2VJFMTam3r5/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636219314_4914_.png",
-    "price": "$1.75",
-    "rating": 4.6,
-    "title": "Clarksburg Parking",
-    "location": "327 Washington Ave Clarksburg, WV 26301"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/fZ2xUehaCdEPfCxGdox35L/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1625944277_8610_.png",
-    "price": "$5.00",
-    "rating": 4.5,
-    "title": "Salem Financial",
-    "location": "413 Washington Street Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
-    "price": "$2.00",
-    "rating": 4.6,
-    "title": "Glass City Parking",
-    "location": "318 N Erie St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
-    "price": "$2.00",
-    "rating": 4.8,
-    "title": "Mud Hens Parking",
-    "location": "143 11th St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
-    "price": "$3.00",
-    "rating": 4.8,
-    "title": "The Detroit Club",
-    "location": "300 W Fort St Detroit, MI 48226"
-  }
- ],
-
-
-
-
- "Oakland":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZxjPPBHg9urxpHAEYEov3s/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1605550447.png",
-    "price": "$4.00",
-    "rating": 4.5,
-    "title": "Old Oakland",
-    "location": "729 Clay St Oakland, CA 94607"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/e6aURkkBh5vaNPyyow2toa/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1573263189.png",
-    "price": "$3.00",
-    "rating": 4.5,
-    "title": "Graduate Berkeley",
-    "location": "2600 Durant Ave Berkeley, CA 94704"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/GYrmKjDvtfrXgXWQQw2vGi/?rentalType=hourly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$1.50",
-    "rating": 4.7,
-    "title": "Parrott Parking",
-    "location": "101 Parrott St San Leandro, CA 94577"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/gzxddm9Z8MAthvSHWuvbqQ/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1573861797.png",
-    "price": "$2.00",
-    "rating": 4.5,
-    "title": "InTouchPOS",
-    "location": "1601 N California Blvd Walnut Creek, CA 94596"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/2UBPeTEAovADrDUdTESJnp/?rentalType=hourly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610405787.png",
-    "price": "$4.00",
-    "rating": 4.8,
-    "title": "SFO Parking @ Westin / Aloft",
-    "location": "401 E Millbrae Ave Millbrae, CA 94030"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PaybLaMBhCpn7awco7UDMc/?rentalType=hourly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$2.50",
-    "rating": 4.8,
-    "title": "Mansion Flats Parking",
-    "location": "1224 G St Sacramento, CA 95814"
-  }
- ],
-
-
-
-
- "QueensMonthly":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
-    "price": "$230.00",
-    "rating": 4.5,
-    "title": "La Mirage Garage",
-    "location": "178-10 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
-    "price": "$230.00",
-    "rating": 4.5,
-    "title": "Wilshire Garage",
-    "location": "183-3 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
-    "price": "$200.00",
-    "rating": 4.5,
-    "title": "Wilshire Outdoor Parking",
-    "location": "183-3 Hillside Avenue Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
-    "price": "$30.00",
-    "rating": 4.6,
-    "title": "30 Butler",
-    "location": "30 Butler St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
-    "price": "$40.00",
-    "rating": 4.7,
-    "title": "60 Church",
-    "location": "60 Church St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
-    "price": "$225.00",
-    "rating": 4.8,
-    "title": "Parkadelphia",
-    "location": "1601 Callowhill St Philadelphia, PA 19130"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
-    "price": "$90.00",
-    "rating": 4.7,
-    "title": "Union Parking",
-    "location": "22 Union Pl Hartford, CT 06103"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$0.00",
-    "rating": 4.7,
-    "title": "Arts District Parking",
-    "location": "13 E Lafayette Ave Baltimore, MD 21202"
-  }
- ],
-
-
-
-
-
-"HartFordMonthly":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
-    "price": "$90.00",
-    "rating": 4.6,
-    "title": "Union Parking",
-    "location": "22 Union Pl Hartford, CT 06103"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
-    "price": "$40.00",
-    "rating": 4.6,
-    "title": "60 Church",
-    "location": "60 Church St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
-    "price": "$30.00",
-    "rating": 4.5,
-    "title": "30 Butler",
-    "location": "30 Butler St Meriden, CT 06451"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
-    "price": "$200.00",
-    "rating": 4.5,
-    "title": "Wilshire Outdoor Parking",
-    "location": "183-3 Hillside Avenue Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
-    "price": "$230.00",
-    "rating": 4.6,
-    "title": "Wilshire Garage",
-    "location": "183-3 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
-    "price": "$230.00",
-    "rating": 4.5,
-    "title": "La Mirage Garage",
-    "location": "178-10 Wexford Terrace Queens, NY 11432"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
-    "price": "$225.00",
-    "rating": 4.7,
-    "title": "Parkadelphia",
-    "location": "1601 Callowhill St Philadelphia, PA 19130"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=monthly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$125.00",
-    "rating": 4.6,
-    "title": "Rochester State Street Parking",
-    "location": "101 State St Rochester, NY 14614"
-  }
- ],
-
-
-
-
-
-
-
-
-"CantonMonthly":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/aLXqM4P5vzVnrZgMrUWATY/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636219490_4959_.png",
-    "price": "$65.00",
-    "rating": 4.8,
-    "title": "Canton Parking",
-    "location": "177 2nd St SW Canton, OH 44702"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5a4APF35GXXDZeyE5cfXJZ/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1570832286.png",
-    "price": "$35.00",
-    "rating": 4.7,
-    "title": "216 Mansfield Blvd",
-    "location": "216 Mansfield Blvd Carnegie, PA 15106"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/8pi9FfimnkMLNi7RTLkRgH/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1563311944.png",
-    "price": "$100.00",
-    "rating": 4.5,
-    "title": "Summit on 16th",
-    "location": "82 E 16th Ave Columbus, OH 43201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/MkzopLAyRSX2VJFMTam3r5/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636219314_4914_.png",
-    "price": "$55.00",
-    "rating": 4.5,
-    "title": "Clarksburg Parking",
-    "location": "327 Washington Ave Clarksburg, WV 26301"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
-    "price": "$70.00",
-    "rating": 4.5,
-    "title": "Glass City Parking",
-    "location": "318 N Erie St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
-    "price": "$35.00",
-    "rating": 4.6,
-    "title": "Mud Hens Parking",
-    "location": "143 11th St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
-    "price": "$200.00",
-    "rating": 4.5,
-    "title": "The Detroit Club",
-    "location": "300 W Fort St Detroit, MI 48226"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Gim5ovJacWe8t63V4gYzNT/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1619045208.png",
-    "price": "$100.00",
-    "rating": 4.5,
-    "title": "Bennett Park Lot",
-    "location": "2231 Cochrane St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/U8azLTYYnq2shRn974Petn/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1603153139.png",
-    "price": "$50.00",
-    "rating": 4.5,
-    "title": "Corktown Community Parking Lot",
-    "location": "2274 14th St Detroit, MI 48216"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/gUz9aq9azGFXZ2uXGUA6Ei/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1613002383.png",
-    "price": "$80.00",
-    "rating": 4.8,
-    "title": "Canfield Parking",
-    "location": "4299 2nd Ave Detroit, MI 48201"
-  }
- ],
-
-
-
-
-
- "OaklandMonthly":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZxjPPBHg9urxpHAEYEov3s/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1605550447.png",
-    "price": "$175.00",
-    "rating": 4.8,
-    "title": "Old Oakland",
-    "location": "729 Clay St Oakland, CA 94607"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/GYrmKjDvtfrXgXWQQw2vGi/?rentalType=monthly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$40.00",
-    "rating": 4.5,
-    "title": "Parrott Parking",
-    "location": "101 Parrott St San Leandro, CA 94577"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PaybLaMBhCpn7awco7UDMc/?rentalType=monthly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$185.00",
-    "rating": 4.6,
-    "title": "Mansion Flats Parking",
-    "location": "1224 G St Sacramento, CA 95814"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/9768EkCr2JiWtCJqFthtib/?rentalType=monthly&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$250.00",
-    "rating": 4.8,
-    "title": "Carmel-By-The-Sea Parking",
-    "location": "61 Lincoln St Carmel-By-The-Sea, CA 93923"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/6VpSiePKRgxYcjgwWtYFoB/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1591887822.png",
-    "price": "$75.00",
-    "rating": 4.8,
-    "title": "Hillel at University of Oregon",
-    "location": "1059 Hilyard St Eugene, OR 97401"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/iUJBJSjYv7BdkLYWuS7jFA/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1587398472.png",
-    "price": "$130.00",
-    "rating": 4.5,
-    "title": "St. Paul's Lutheran Church of Santa Monica",
-    "location": "958 Lincoln Blvd Santa Monica, CA 90403"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/GJMG7nyWM7KQPpmWGxv7Vd/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1636218438_2373_.png",
-    "price": "$165.00",
-    "rating": 4.7,
-    "title": "Santa Monica Bay Women's Club",
-    "location": "1210 4th St Santa Monica, CA 90401"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ccCkNXw2HHfdxkNEy53KDt/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610301104.png",
-    "price": "$500.00",
-    "rating": 4.7,
-    "title": "Broxton Ave",
-    "location": "900 Broxton Ave Los Angeles, CA 90024"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=monthly&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
-    "price": "$230.00",
-    "rating": 4.7,
-    "title": "Hilgard Garage Westwood",
-    "location": "1015 Hilgard Ave Los Angeles, CA 90024"
-  }
- ],
-
-
-
-
-
-"QueensDaily":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
-    "price": "$10.00",
-    "rating": 4.6,
-    "title": "Parkadelphia",
-    "location": "1601 Callowhill St Philadelphia, PA 19130"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
-    "price": "$15.00",
-    "rating": 4.5,
-    "title": "Union Parking",
-    "location": "22 Union Pl Hartford, CT 06103"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
-    "price": "$12.00",
-    "rating": 4.5,
-    "title": "York Parking",
-    "location": "508 York Rd Towson, MD 21204"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$19.00",
-    "rating": 4.6,
-    "title": "Arts District Parking",
-    "location": "13 E Lafayette Ave Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
-    "price": "$14.00",
-    "rating": 4.6,
-    "title": "Mt. Vernon Parking",
-    "location": "1012 St Paul St Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
-    "price": "$18.00",
-    "rating": 4.5,
-    "title": "Inner Harbor Garage",
-    "location": "313 W Lombard St Baltimore, MD 21201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$13.00",
-    "rating": 4.5,
-    "title": "Rochester State Street Parking",
-    "location": "101 State St Rochester, NY 14614"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/hxPVDTFPbwwBpotboAKdpy/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579825_5499_.png",
-    "price": "$24.00",
-    "rating": 4.8,
-    "title": "City Center Parking",
-    "location": "90 E Grace St Richmond, VA 23219"
-  }
- ],
-
-
-
-
-
-
-
-
- "HartFordDaily":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
-    "price": "$15.00",
-    "rating": 4.8,
-    "title": "Union Parking",
-    "location": "22 Union Pl Hartford, CT 06103"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
-    "price": "$10.00",
-    "rating": 4.6,
-    "title": "Parkadelphia",
-    "location": "1601 Callowhill St Philadelphia, PA 19130"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
-    "price": "$12.00",
-    "rating": 4.8,
-    "title": "York Parking",
-    "location": "508 York Rd Towson, MD 21204"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$13.00",
-    "rating": 4.6,
-    "title": "Rochester State Street Parking",
-    "location": "101 State St Rochester, NY 14614"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$19.00",
-    "rating": 4.6,
-    "title": "Arts District Parking",
-    "location": "13 E Lafayette Ave Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
-    "price": "$14.00",
-    "rating": 4.8,
-    "title": "Mt. Vernon Parking",
-    "location": "1012 St Paul St Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
-    "price": "$18.00",
-    "rating": 4.7,
-    "title": "Inner Harbor Garage",
-    "location": "313 W Lombard St Baltimore, MD 21201"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/hxPVDTFPbwwBpotboAKdpy/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579825_5499_.png",
-    "price": "$24.00",
-    "rating": 4.5,
-    "title": "City Center Parking",
-    "location": "90 E Grace St Richmond, VA 23219"
-  }
- ],
-
-
-
-
-
- "CantonDaily":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
-    "price": "$17.00",
-    "rating": 4.6,
-    "title": "Glass City Parking",
-    "location": "318 N Erie St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
-    "price": "$22.00",
-    "rating": 4.8,
-    "title": "Mud Hens Parking",
-    "location": "143 11th St Toledo, OH 43604"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/K8mr7QZNwxHaTWx4gkZxug/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1661093169_3109_.png",
-    "price": "$7.00",
-    "rating": 4.5,
-    "title": "The Roanoke Station Garage",
-    "location": "33 Salem Ave SW Roanoke, VA 24011"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$13.00",
-    "rating": 4.7,
-    "title": "Rochester State Street Parking",
-    "location": "101 State St Rochester, NY 14614"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
-    "price": "$12.00",
-    "rating": 4.6,
-    "title": "York Parking",
-    "location": "508 York Rd Towson, MD 21204"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
-    "price": "$15.00",
-    "rating": 4.6,
-    "title": "Arts District Parking",
-    "location": "13 E Lafayette Ave Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
-    "price": "$14.00",
-    "rating": 4.6,
-    "title": "Mt. Vernon Parking",
-    "location": "1012 St Paul St Baltimore, MD 21202"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
-    "price": "$18.00",
-    "rating": 4.5,
-    "title": "Inner Harbor Garage",
-    "location": "313 W Lombard St Baltimore, MD 21201"
-  }
- ],
-
-
-
-
- "OaklandDaily":[
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/2UBPeTEAovADrDUdTESJnp/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610405787.png",
-    "price": "$26.00",
-    "rating": 4.7,
-    "title": "SFO Parking @ Westin / Aloft",
-    "location": "401 E Millbrae Ave Millbrae, CA 94030"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/9768EkCr2JiWtCJqFthtib/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$13.00",
-    "rating": 4.7,
-    "title": "Carmel-By-The-Sea Parking",
-    "location": "61 Lincoln St Carmel-By-The-Sea, CA 93923"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
-    "price": "$16.00",
-    "rating": 4.8,
-    "title": "Hilgard Garage Westwood",
-    "location": "1015 Hilgard Ave Los Angeles, CA 90024"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/4PCgA9vWBeFBD8nuSrV3qT/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$12.00",
-    "rating": 4.7,
-    "title": "Historic Nye Beach Parking",
-    "location": "426 NW Coast St Newport, OR 97365"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/VmcMdR8bXGdoYbmHKPMwwe/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1555102412.png",
-    "price": "$10.00",
-    "rating": 4.5,
-    "title": "Immaculate Heart",
-    "location": "909 E Washington St Phoenix, AZ 85034"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/Kdy5PgXncq2RMYWMXzc83Y/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/943_1659471374_6352_.png",
-    "price": "$9.00",
-    "rating": 4.5,
-    "title": "Legacy Sports Lots 2 - 4 Parking",
-    "location": "1 Legacy Dr Mesa, AZ 85212"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/BN2FpPEGN3Zg3q2UYmsUZV/?rentalType=daily&ref=spot-search",
-    "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
-    "price": "$15.00",
-    "rating": 4.5,
-    "title": "Sun City Parking",
-    "location": "608 S Santa Fe St El Paso, TX 79901"
-  },
-  {
-    "CheckoutPage": "https://parking.airgarage.com/spot/N9fWwFS4WXKqiKQyta6fdC/?rentalType=daily&ref=spot-search",
-    "image": "https://storage.googleapis.com/airgarage/1_1656713992_5700_.png",
-    "price": "$0.00",
-    "rating": 4.5,
-    "title": "City of Fountains Parking",
-    "location": "1121 McGee St KCMO, MO 64106"
-  }
- ],
-
-
-
-
-
-
- "StateArr":["Alaska", "Alabama", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Gregoria", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Utah", "Oregon", "Ohio", "New York", "Nevada", "Washington", "Virginia", "Texas", "West Virginia", "Vermont", "Wyoming", "South Dakota", "Oklahoma", "New Jersey", "New Mexico", "New Hemisphere", "Mississippi", "Montana"]
-
-
- 
-
-
+  "LosAngeles": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/esSuWpobgfEppNx85YEDna/?rentalType=hourly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "Crypto Arena West Parking",
+      "location": "1306 W 11th St Los Angeles, CA 90015"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/3wkVBEEzxumFnzPw7zoDso/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1609279593.png",
+      "price": "$3.00",
+      "rating": 4.7,
+      "title": "Hollywood La Brea",
+      "location": "1655 N La Brea Ave Los Angeles, CA 90028"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/SkYsAVNgXkpWn43JktTXhN/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1641313698_5482_.png",
+      "price": "$4.00",
+      "rating": 4.6,
+      "title": "South Doheny Garage",
+      "location": "140 S Doheny Dr Beverly Hills, CA 90211"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZCuLcnkmapPUSAkBUjpF2N/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1580767816.png",
+      "price": "$1.00",
+      "rating": 4.8,
+      "title": "First Lutheran Church Culver City",
+      "location": "3728 Dunn Drive Los Angeles, CA 90034"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/gjBToUtjgkn9zVkVrJntS9/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1602370572.png",
+      "price": "$4.00",
+      "rating": 4.8,
+      "title": "Old Pasadena",
+      "location": "106 E Colorado Blvd Pasadena, CA 91105"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/KoDEpyj7YCtdG6j67od2pB/?rentalType=hourly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$4.00",
+      "rating": 4.7,
+      "title": "Playhouse Village Parking",
+      "location": "676 E Green St Pasadena, CA 91101"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
+      "price": "$4.00",
+      "rating": 4.5,
+      "title": "Hilgard Garage Westwood",
+      "location": "1015 Hilgard Ave Los Angeles, CA 90024"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/WsrwLxkVxk3xUnhfdQzpjV/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1580762044.png",
+      "price": "$1.25",
+      "rating": 4.6,
+      "title": "Pauline Books & Media",
+      "location": "3908 Sepulveda Blvd Culver City, CA 90230"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ccCkNXw2HHfdxkNEy53KDt/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610301104.png",
+      "price": "$4.00",
+      "rating": 4.6,
+      "title": "Broxton Ave",
+      "location": "900 Broxton Ave Los Angeles, CA 90024"
+    }
+  ],
+  "Omaha": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/e5zbeYWPqpLhToYBZhnthz/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1591824352.png",
+      "price": "$3.00",
+      "rating": 4.6,
+      "title": "15th & Harney Parking",
+      "location": "1415 Harney St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/JHAz5xssCrWUSfWRVneK7K/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1591893272.png",
+      "price": "$2.50",
+      "rating": 4.6,
+      "title": "Harney Street Parking",
+      "location": "1013 Harney St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/eWoVUAcnjWcqwMjzHbsZUf/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1594848726.png",
+      "price": "$2.50",
+      "rating": 4.6,
+      "title": "Old Market Parking",
+      "location": "519 S 11th St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/aiLy9VPPoPo3kciKfBLzeZ/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1604777348.png",
+      "price": "$1.25",
+      "rating": 4.8,
+      "title": "Farnam Street Lot",
+      "location": "2040 Farnam St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/SQQfNwVaKzkKFo5Vc5Gexd/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1604777303.png",
+      "price": "$1.50",
+      "rating": 4.6,
+      "title": "Douglas Street Parking",
+      "location": "2309 Douglas St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/nA2rjzPnkKAyNGn6555GiA/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1604777259.png",
+      "price": "$1.25",
+      "rating": 4.7,
+      "title": "Highline Apartments",
+      "location": "2223 Dodge St Omaha, NE 68102"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/9sSAjmNvWApKa9eGzNacwu/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1596413069.png",
+      "price": "$1.25",
+      "rating": 4.8,
+      "title": "Webster Lot",
+      "location": "3158 Webster St Omaha, NE 68131"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/YR9jBfs4iDDj6u4BTiKEnz/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1573158670.png",
+      "price": "$5.00",
+      "rating": 4.5,
+      "title": "14th & Wyandotte Parking",
+      "location": "106 W 14th St Kansas City, MO 64105"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/N9fWwFS4WXKqiKQyta6fdC/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713992_5700_.png",
+      "price": "$4.00",
+      "rating": 4.6,
+      "title": "City of Fountains Parking",
+      "location": "1121 McGee St KCMO, MO 64106"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/NVfMgWhoGhVj97856BxVmK/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1582735348.png",
+      "price": "$3.00",
+      "rating": 4.7,
+      "title": "Stillwater Parking Ramp",
+      "location": "200 2nd St N Stillwater, MN 55082"
+    }
+  ],
+  "AnnArbor": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/jc75rYWHafdjRxqsxUrmts/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1568827211.png",
+      "price": "$2.00",
+      "rating": 4.8,
+      "title": "First Baptist Church",
+      "location": "517 E Washington St Ann Arbor, MI 48104"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/fu686HVfdPKP5C32QuannB/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1568913780.png",
+      "price": "$2.00",
+      "rating": 4.8,
+      "title": "FUMC Ann Arbor",
+      "location": "120 S State St Ann Arbor, MI 48104"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/eu4baNwgsmc3MWjo6WRio6/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1591886793.png",
+      "price": "$2.00",
+      "rating": 4.6,
+      "title": "Liberty Street Parking",
+      "location": "315 E Liberty St Ann Arbor, MI 48104"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/dim5uUYmBK2ysH6k7GMDU6/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1576013163.png",
+      "price": "$2.00",
+      "rating": 4.5,
+      "title": "University of Michigan Hillel",
+      "location": "1429 Hill St Ann Arbor, MI 48104"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/7FNC2Yxf5kT5DbZiu6Gkkx/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1565054004.png",
+      "price": "$1.00",
+      "rating": 4.7,
+      "title": "Ypsilanti Performance Space",
+      "location": "218 N Adams St Ypsilanti, MI 48197"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/U8azLTYYnq2shRn974Petn/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1603153139.png",
+      "price": "$1.50",
+      "rating": 4.8,
+      "title": "Corktown Community Parking Lot",
+      "location": "2274 14th St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/cHL2JqQNwd4YUdpiLcWqpZ/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1573681701.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "2273 Harrison Street",
+      "location": "2273 Harrison St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Gim5ovJacWe8t63V4gYzNT/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1619045208.png",
+      "price": "$3.00",
+      "rating": 4.6,
+      "title": "Bennett Park Lot",
+      "location": "2231 Cochrane St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/VoeZhwiQX9WpfgWwV6yqmY/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1593460180.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "Ballpark Lot",
+      "location": "2269 Cochrane St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "The Detroit Club",
+      "location": "300 W Fort St Detroit, MI 48226"
+    }
+  ],
+  "Tempe": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Y8uewVbqN2KhFr4DGLv549/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/297_1527975194.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "University Inn & Suites",
+      "location": "902 S Mill Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/gmagVh92T3SMLmPhWyByeY/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/302_1528935285.png",
+      "price": "$2.75",
+      "rating": 4.5,
+      "title": "Catholic Newman Center",
+      "location": "221 E 7th St Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/aT4PnUBLR3cJTescybHmE2/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/324_1530246514.png",
+      "price": "$2.50",
+      "rating": 4.6,
+      "title": "ASU Hillel",
+      "location": "1012 S Mill Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/iaZ6K3EXJs2L6uLXnkJZF9/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1562622604.png",
+      "price": "$2.50",
+      "rating": 4.7,
+      "title": "1020 S Mill Avenue",
+      "location": "1020 S Mill Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PPzn7UhnTLE3T9NWb6eChW/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/417_1536696815.png",
+      "price": "$2.50",
+      "rating": 4.6,
+      "title": "Campus Christian Center",
+      "location": "1034 S Mill Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/dKnRSb4GvBDRwiY6osXa8Y/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/289_1534974633.png",
+      "price": "$4.00",
+      "rating": 4.7,
+      "title": "First United Methodist Church",
+      "location": "255 E University Dr Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Bv9Jwdcu2n6PdkQzSB82Pt/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/290_1526593316.png",
+      "price": "$3.50",
+      "rating": 4.8,
+      "title": "Graduate Tempe",
+      "location": "277 E Apache Blvd Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/XdaScT3Mmwr5dHuPpd4SbR/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218373_551_.png",
+      "price": "$1.00",
+      "rating": 4.6,
+      "title": "Community Christian Church",
+      "location": "1701 S College Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/WEunnxZaaxVsHrCXHpYroB/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1570665137.png",
+      "price": "$1.00",
+      "rating": 4.6,
+      "title": "St. Augustine's",
+      "location": "1735 S College Ave Tempe, AZ 85281"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/6xv2cXhdWLZf9SudFTXsoL/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/451_1544841458.png",
+      "price": "$7.00",
+      "rating": 4.8,
+      "title": "University Pointe",
+      "location": "919 E Lemon St Tempe, AZ 85281"
+    }
+  ],
+  "Queens": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
+      "price": "$6.00",
+      "rating": 4.6,
+      "title": "La Mirage Garage",
+      "location": "178-10 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
+      "price": "$8.00",
+      "rating": 4.5,
+      "title": "Wilshire Garage",
+      "location": "183-3 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
+      "price": "$9.00",
+      "rating": 4.5,
+      "title": "Wilshire Outdoor Parking",
+      "location": "183-3 Hillside Avenue Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/HqRZTfJN2ZHVCWzXfo9xEM/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304323.png",
+      "price": "$2.00",
+      "rating": 4.5,
+      "title": "Southbury Travel Center",
+      "location": "997 Main St S Southbury, CT 06488"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
+      "price": "$2.00",
+      "rating": 4.7,
+      "title": "30 Butler",
+      "location": "30 Butler St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
+      "price": "$2.00",
+      "rating": 4.6,
+      "title": "60 Church",
+      "location": "60 Church St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Yr4UsGjgvkr47GYBurZaqV/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1571344853.png",
+      "price": "$1.50",
+      "rating": 4.8,
+      "title": "651 Park Street",
+      "location": "651 Park St Hartford, CT 06106"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
+      "price": "$5.00",
+      "rating": 4.8,
+      "title": "Parkadelphia",
+      "location": "1601 Callowhill St Philadelphia, PA 19130"
+    }
+  ],
+  "HartFord": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
+      "price": "$3.00",
+      "rating": 4.6,
+      "title": "Union Parking",
+      "location": "22 Union Pl Hartford, CT 06103"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Yr4UsGjgvkr47GYBurZaqV/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1571344853.png",
+      "price": "$1.50",
+      "rating": 4.8,
+      "title": "651 Park Street",
+      "location": "651 Park St Hartford, CT 06106"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
+      "price": "$2.00",
+      "rating": 4.5,
+      "title": "60 Church",
+      "location": "60 Church St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
+      "price": "$2.00",
+      "rating": 4.7,
+      "title": "30 Butler",
+      "location": "30 Butler St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/HqRZTfJN2ZHVCWzXfo9xEM/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304323.png",
+      "price": "$2.00",
+      "rating": 4.6,
+      "title": "Southbury Travel Center",
+      "location": "997 Main St S Southbury, CT 06488"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
+      "price": "$9.00",
+      "rating": 4.8,
+      "title": "Wilshire Outdoor Parking",
+      "location": "183-3 Hillside Avenue Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
+      "price": "$8.00",
+      "rating": 4.8,
+      "title": "Wilshire Garage",
+      "location": "183-3 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
+      "price": "$6.00",
+      "rating": 4.6,
+      "title": "La Mirage Garage",
+      "location": "178-10 Wexford Terrace Queens, NY 11432"
+    }
+  ],
+  "Canton": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/aLXqM4P5vzVnrZgMrUWATY/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636219490_4959_.png",
+      "price": "$2.00",
+      "rating": 4.8,
+      "title": "Canton Parking",
+      "location": "177 2nd St SW Canton, OH 44702"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5a4APF35GXXDZeyE5cfXJZ/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1570832286.png",
+      "price": "$1.00",
+      "rating": 4.8,
+      "title": "216 Mansfield Blvd",
+      "location": "216 Mansfield Blvd Carnegie, PA 15106"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/6Hk2NMbpzFKP4dFRsjkS3h/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1605549538.png",
+      "price": "$2.00",
+      "rating": 4.7,
+      "title": "Indianola Presbyterian Church",
+      "location": "1960 Waldeck Ave Columbus, OH 43201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/8pi9FfimnkMLNi7RTLkRgH/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1563311944.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "Summit on 16th",
+      "location": "82 E 16th Ave Columbus, OH 43201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/6b8JCfMmXzi4cZ2yrvNunp/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1591084307.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "High Street Parking",
+      "location": "1247 N High St Columbus, OH 43201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/MkzopLAyRSX2VJFMTam3r5/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636219314_4914_.png",
+      "price": "$1.75",
+      "rating": 4.6,
+      "title": "Clarksburg Parking",
+      "location": "327 Washington Ave Clarksburg, WV 26301"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/fZ2xUehaCdEPfCxGdox35L/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1625944277_8610_.png",
+      "price": "$5.00",
+      "rating": 4.5,
+      "title": "Salem Financial",
+      "location": "413 Washington Street Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
+      "price": "$2.00",
+      "rating": 4.6,
+      "title": "Glass City Parking",
+      "location": "318 N Erie St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
+      "price": "$2.00",
+      "rating": 4.8,
+      "title": "Mud Hens Parking",
+      "location": "143 11th St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
+      "price": "$3.00",
+      "rating": 4.8,
+      "title": "The Detroit Club",
+      "location": "300 W Fort St Detroit, MI 48226"
+    }
+  ],
+  "Oakland": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZxjPPBHg9urxpHAEYEov3s/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1605550447.png",
+      "price": "$4.00",
+      "rating": 4.5,
+      "title": "Old Oakland",
+      "location": "729 Clay St Oakland, CA 94607"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/e6aURkkBh5vaNPyyow2toa/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1573263189.png",
+      "price": "$3.00",
+      "rating": 4.5,
+      "title": "Graduate Berkeley",
+      "location": "2600 Durant Ave Berkeley, CA 94704"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/GYrmKjDvtfrXgXWQQw2vGi/?rentalType=hourly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$1.50",
+      "rating": 4.7,
+      "title": "Parrott Parking",
+      "location": "101 Parrott St San Leandro, CA 94577"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/gzxddm9Z8MAthvSHWuvbqQ/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1573861797.png",
+      "price": "$2.00",
+      "rating": 4.5,
+      "title": "InTouchPOS",
+      "location": "1601 N California Blvd Walnut Creek, CA 94596"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/2UBPeTEAovADrDUdTESJnp/?rentalType=hourly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610405787.png",
+      "price": "$4.00",
+      "rating": 4.8,
+      "title": "SFO Parking @ Westin / Aloft",
+      "location": "401 E Millbrae Ave Millbrae, CA 94030"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PaybLaMBhCpn7awco7UDMc/?rentalType=hourly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$2.50",
+      "rating": 4.8,
+      "title": "Mansion Flats Parking",
+      "location": "1224 G St Sacramento, CA 95814"
+    }
+  ],
+  "QueensMonthly": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
+      "price": "$230.00",
+      "rating": 4.5,
+      "title": "La Mirage Garage",
+      "location": "178-10 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
+      "price": "$230.00",
+      "rating": 4.5,
+      "title": "Wilshire Garage",
+      "location": "183-3 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
+      "price": "$200.00",
+      "rating": 4.5,
+      "title": "Wilshire Outdoor Parking",
+      "location": "183-3 Hillside Avenue Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
+      "price": "$30.00",
+      "rating": 4.6,
+      "title": "30 Butler",
+      "location": "30 Butler St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
+      "price": "$40.00",
+      "rating": 4.7,
+      "title": "60 Church",
+      "location": "60 Church St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
+      "price": "$225.00",
+      "rating": 4.8,
+      "title": "Parkadelphia",
+      "location": "1601 Callowhill St Philadelphia, PA 19130"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
+      "price": "$90.00",
+      "rating": 4.7,
+      "title": "Union Parking",
+      "location": "22 Union Pl Hartford, CT 06103"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
+      "price": "$0.00",
+      "rating": 4.7,
+      "title": "Arts District Parking",
+      "location": "13 E Lafayette Ave Baltimore, MD 21202"
+    }
+  ],
+  "HartFordMonthly": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
+      "price": "$90.00",
+      "rating": 4.6,
+      "title": "Union Parking",
+      "location": "22 Union Pl Hartford, CT 06103"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/EzTgUabVUZerbyRZ2cxzBS/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151873.png",
+      "price": "$40.00",
+      "rating": 4.6,
+      "title": "60 Church",
+      "location": "60 Church St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/juWrS24rVYufgbBc2MQ5GK/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610151842.png",
+      "price": "$30.00",
+      "rating": 4.5,
+      "title": "30 Butler",
+      "location": "30 Butler St Meriden, CT 06451"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/faWc8Bmjrteo7gWCXiCbgo/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218540_101_.png",
+      "price": "$200.00",
+      "rating": 4.5,
+      "title": "Wilshire Outdoor Parking",
+      "location": "183-3 Hillside Avenue Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/mJyEfQXnqWbD6yfkwoGJNo/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218507_6883_.png",
+      "price": "$230.00",
+      "rating": 4.6,
+      "title": "Wilshire Garage",
+      "location": "183-3 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ixbYsknRkP7cM8dWF4cbcz/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218249_2609_.png",
+      "price": "$230.00",
+      "rating": 4.5,
+      "title": "La Mirage Garage",
+      "location": "178-10 Wexford Terrace Queens, NY 11432"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
+      "price": "$225.00",
+      "rating": 4.7,
+      "title": "Parkadelphia",
+      "location": "1601 Callowhill St Philadelphia, PA 19130"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=monthly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$125.00",
+      "rating": 4.6,
+      "title": "Rochester State Street Parking",
+      "location": "101 State St Rochester, NY 14614"
+    }
+  ],
+  "CantonMonthly": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/aLXqM4P5vzVnrZgMrUWATY/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636219490_4959_.png",
+      "price": "$65.00",
+      "rating": 4.8,
+      "title": "Canton Parking",
+      "location": "177 2nd St SW Canton, OH 44702"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5a4APF35GXXDZeyE5cfXJZ/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1570832286.png",
+      "price": "$35.00",
+      "rating": 4.7,
+      "title": "216 Mansfield Blvd",
+      "location": "216 Mansfield Blvd Carnegie, PA 15106"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/8pi9FfimnkMLNi7RTLkRgH/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1563311944.png",
+      "price": "$100.00",
+      "rating": 4.5,
+      "title": "Summit on 16th",
+      "location": "82 E 16th Ave Columbus, OH 43201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/MkzopLAyRSX2VJFMTam3r5/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636219314_4914_.png",
+      "price": "$55.00",
+      "rating": 4.5,
+      "title": "Clarksburg Parking",
+      "location": "327 Washington Ave Clarksburg, WV 26301"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
+      "price": "$70.00",
+      "rating": 4.5,
+      "title": "Glass City Parking",
+      "location": "318 N Erie St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
+      "price": "$35.00",
+      "rating": 4.6,
+      "title": "Mud Hens Parking",
+      "location": "143 11th St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5PEyhDYoU9z5jwdxQDRE7N/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1608701998.png",
+      "price": "$200.00",
+      "rating": 4.5,
+      "title": "The Detroit Club",
+      "location": "300 W Fort St Detroit, MI 48226"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Gim5ovJacWe8t63V4gYzNT/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1619045208.png",
+      "price": "$100.00",
+      "rating": 4.5,
+      "title": "Bennett Park Lot",
+      "location": "2231 Cochrane St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/U8azLTYYnq2shRn974Petn/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1603153139.png",
+      "price": "$50.00",
+      "rating": 4.5,
+      "title": "Corktown Community Parking Lot",
+      "location": "2274 14th St Detroit, MI 48216"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/gUz9aq9azGFXZ2uXGUA6Ei/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1613002383.png",
+      "price": "$80.00",
+      "rating": 4.8,
+      "title": "Canfield Parking",
+      "location": "4299 2nd Ave Detroit, MI 48201"
+    }
+  ],
+  "OaklandMonthly": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZxjPPBHg9urxpHAEYEov3s/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1605550447.png",
+      "price": "$175.00",
+      "rating": 4.8,
+      "title": "Old Oakland",
+      "location": "729 Clay St Oakland, CA 94607"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/GYrmKjDvtfrXgXWQQw2vGi/?rentalType=monthly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$40.00",
+      "rating": 4.5,
+      "title": "Parrott Parking",
+      "location": "101 Parrott St San Leandro, CA 94577"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PaybLaMBhCpn7awco7UDMc/?rentalType=monthly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$185.00",
+      "rating": 4.6,
+      "title": "Mansion Flats Parking",
+      "location": "1224 G St Sacramento, CA 95814"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/9768EkCr2JiWtCJqFthtib/?rentalType=monthly&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$250.00",
+      "rating": 4.8,
+      "title": "Carmel-By-The-Sea Parking",
+      "location": "61 Lincoln St Carmel-By-The-Sea, CA 93923"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/6VpSiePKRgxYcjgwWtYFoB/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1591887822.png",
+      "price": "$75.00",
+      "rating": 4.8,
+      "title": "Hillel at University of Oregon",
+      "location": "1059 Hilyard St Eugene, OR 97401"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/iUJBJSjYv7BdkLYWuS7jFA/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1587398472.png",
+      "price": "$130.00",
+      "rating": 4.5,
+      "title": "St. Paul's Lutheran Church of Santa Monica",
+      "location": "958 Lincoln Blvd Santa Monica, CA 90403"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/GJMG7nyWM7KQPpmWGxv7Vd/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1636218438_2373_.png",
+      "price": "$165.00",
+      "rating": 4.7,
+      "title": "Santa Monica Bay Women's Club",
+      "location": "1210 4th St Santa Monica, CA 90401"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ccCkNXw2HHfdxkNEy53KDt/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610301104.png",
+      "price": "$500.00",
+      "rating": 4.7,
+      "title": "Broxton Ave",
+      "location": "900 Broxton Ave Los Angeles, CA 90024"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=monthly&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
+      "price": "$230.00",
+      "rating": 4.7,
+      "title": "Hilgard Garage Westwood",
+      "location": "1015 Hilgard Ave Los Angeles, CA 90024"
+    }
+  ],
+  "QueensDaily": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
+      "price": "$10.00",
+      "rating": 4.6,
+      "title": "Parkadelphia",
+      "location": "1601 Callowhill St Philadelphia, PA 19130"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
+      "price": "$15.00",
+      "rating": 4.5,
+      "title": "Union Parking",
+      "location": "22 Union Pl Hartford, CT 06103"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
+      "price": "$12.00",
+      "rating": 4.5,
+      "title": "York Parking",
+      "location": "508 York Rd Towson, MD 21204"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
+      "price": "$19.00",
+      "rating": 4.6,
+      "title": "Arts District Parking",
+      "location": "13 E Lafayette Ave Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
+      "price": "$14.00",
+      "rating": 4.6,
+      "title": "Mt. Vernon Parking",
+      "location": "1012 St Paul St Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
+      "price": "$18.00",
+      "rating": 4.5,
+      "title": "Inner Harbor Garage",
+      "location": "313 W Lombard St Baltimore, MD 21201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$13.00",
+      "rating": 4.5,
+      "title": "Rochester State Street Parking",
+      "location": "101 State St Rochester, NY 14614"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/hxPVDTFPbwwBpotboAKdpy/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579825_5499_.png",
+      "price": "$24.00",
+      "rating": 4.8,
+      "title": "City Center Parking",
+      "location": "90 E Grace St Richmond, VA 23219"
+    }
+  ],
+  "HartFordDaily": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AmN2ePyeYmVdtbfkZWEaPp/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610304558.png",
+      "price": "$15.00",
+      "rating": 4.8,
+      "title": "Union Parking",
+      "location": "22 Union Pl Hartford, CT 06103"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/etwiEMGg77P8ySi3QDV4TT/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713960_8663_.png",
+      "price": "$10.00",
+      "rating": 4.6,
+      "title": "Parkadelphia",
+      "location": "1601 Callowhill St Philadelphia, PA 19130"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
+      "price": "$12.00",
+      "rating": 4.8,
+      "title": "York Parking",
+      "location": "508 York Rd Towson, MD 21204"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$13.00",
+      "rating": 4.6,
+      "title": "Rochester State Street Parking",
+      "location": "101 State St Rochester, NY 14614"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
+      "price": "$19.00",
+      "rating": 4.6,
+      "title": "Arts District Parking",
+      "location": "13 E Lafayette Ave Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
+      "price": "$14.00",
+      "rating": 4.8,
+      "title": "Mt. Vernon Parking",
+      "location": "1012 St Paul St Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
+      "price": "$18.00",
+      "rating": 4.7,
+      "title": "Inner Harbor Garage",
+      "location": "313 W Lombard St Baltimore, MD 21201"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/hxPVDTFPbwwBpotboAKdpy/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579825_5499_.png",
+      "price": "$24.00",
+      "rating": 4.5,
+      "title": "City Center Parking",
+      "location": "90 E Grace St Richmond, VA 23219"
+    }
+  ],
+  "CantonDaily": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZhRLxR7s8tiiExBLjBHMvD/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1661102156_4533_.png",
+      "price": "$17.00",
+      "rating": 4.6,
+      "title": "Glass City Parking",
+      "location": "318 N Erie St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/UTsJA3Gv2YTLFg6mzgZxW4/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656715613_7562_.png",
+      "price": "$22.00",
+      "rating": 4.8,
+      "title": "Mud Hens Parking",
+      "location": "143 11th St Toledo, OH 43604"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/K8mr7QZNwxHaTWx4gkZxug/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1661093169_3109_.png",
+      "price": "$7.00",
+      "rating": 4.5,
+      "title": "The Roanoke Station Garage",
+      "location": "33 Salem Ave SW Roanoke, VA 24011"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/PLEvpKKgMuEsUoez3Fu9ra/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$13.00",
+      "rating": 4.7,
+      "title": "Rochester State Street Parking",
+      "location": "101 State St Rochester, NY 14614"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/AtXQSaySQTMV8akNiKct2R/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1616525918.png",
+      "price": "$12.00",
+      "rating": 4.6,
+      "title": "York Parking",
+      "location": "508 York Rd Towson, MD 21204"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/jCPfMdedEpW4WYkUc8Bbbk/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1660579983_9168_.png",
+      "price": "$15.00",
+      "rating": 4.6,
+      "title": "Arts District Parking",
+      "location": "13 E Lafayette Ave Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/ZzWWVEKsmutL6PCh5QYRu8/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656712239_5853_.png",
+      "price": "$14.00",
+      "rating": 4.6,
+      "title": "Mt. Vernon Parking",
+      "location": "1012 St Paul St Baltimore, MD 21202"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/RXDqXUzZeV4DCbbcnqANBL/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1613579331.png",
+      "price": "$18.00",
+      "rating": 4.5,
+      "title": "Inner Harbor Garage",
+      "location": "313 W Lombard St Baltimore, MD 21201"
+    }
+  ],
+  "OaklandDaily": [
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/2UBPeTEAovADrDUdTESJnp/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610405787.png",
+      "price": "$26.00",
+      "rating": 4.7,
+      "title": "SFO Parking @ Westin / Aloft",
+      "location": "401 E Millbrae Ave Millbrae, CA 94030"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/9768EkCr2JiWtCJqFthtib/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$13.00",
+      "rating": 4.7,
+      "title": "Carmel-By-The-Sea Parking",
+      "location": "61 Lincoln St Carmel-By-The-Sea, CA 93923"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/5ci7muqC5FV6aoc6JtyrU4/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1610064014.png",
+      "price": "$16.00",
+      "rating": 4.8,
+      "title": "Hilgard Garage Westwood",
+      "location": "1015 Hilgard Ave Los Angeles, CA 90024"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/4PCgA9vWBeFBD8nuSrV3qT/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$12.00",
+      "rating": 4.7,
+      "title": "Historic Nye Beach Parking",
+      "location": "426 NW Coast St Newport, OR 97365"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/VmcMdR8bXGdoYbmHKPMwwe/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1555102412.png",
+      "price": "$10.00",
+      "rating": 4.5,
+      "title": "Immaculate Heart",
+      "location": "909 E Washington St Phoenix, AZ 85034"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/Kdy5PgXncq2RMYWMXzc83Y/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/943_1659471374_6352_.png",
+      "price": "$9.00",
+      "rating": 4.5,
+      "title": "Legacy Sports Lots 2 - 4 Parking",
+      "location": "1 Legacy Dr Mesa, AZ 85212"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/BN2FpPEGN3Zg3q2UYmsUZV/?rentalType=daily&ref=spot-search",
+      "image": "https://parking.airgarage.com/static/media/share.ab0a9184.png",
+      "price": "$15.00",
+      "rating": 4.5,
+      "title": "Sun City Parking",
+      "location": "608 S Santa Fe St El Paso, TX 79901"
+    },
+    {
+      "CheckoutPage": "https://parking.airgarage.com/spot/N9fWwFS4WXKqiKQyta6fdC/?rentalType=daily&ref=spot-search",
+      "image": "https://storage.googleapis.com/airgarage/1_1656713992_5700_.png",
+      "price": "$0.00",
+      "rating": 4.5,
+      "title": "City of Fountains Parking",
+      "location": "1121 McGee St KCMO, MO 64106"
+    }
+  ],
+  "StateArr": [
+    "Alaska",
+    "Alabama",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Gregoria",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Utah",
+    "Oregon",
+    "Ohio",
+    "New York",
+    "Nevada",
+    "Washington",
+    "Virginia",
+    "Texas",
+    "West Virginia",
+    "Vermont",
+    "Wyoming",
+    "South Dakota",
+    "Oklahoma",
+    "New Jersey",
+    "New Mexico",
+    "New Hemisphere",
+    "Mississippi",
+    "Montana"
+  ],
+  "myTickets": [
+    
+  ]
 }
