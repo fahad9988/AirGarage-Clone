@@ -85,9 +85,7 @@
     position: absolute;
     z-index: 10000;
 }
-.dropdown.active::before{
- 
-}
+
 .dropdown.active .option{
     display: block;
 }
@@ -178,10 +176,7 @@ font-family:Arial, Helvetica, sans-serif;
     grid-template-columns: repeat(4,1fr);
     gap:30px;
 }
-#container2>div{
-   
- 
-}
+
 #container2>div>img{
     width:100%;
    
