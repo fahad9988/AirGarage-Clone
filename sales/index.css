@@ -25,13 +25,13 @@ font-family: "Lato",sans-serif;
 #hfirst a{
     color: gray;
 }
-#hfirst button{
+#hfirst button {
     font-size:13px;
     width: 285px;
     height: 55px;
     color: white;
     word-spacing:3px ;
-    background-color: rgb(190, 67, 22);
+    background-color: rgb(228, 82, 29);
     border-radius: 8px;
     font-weight: bold;
 
@@ -41,6 +41,13 @@ font-family: "Lato",sans-serif;
   color:rgb(19, 18, 18);
   transition: 1s;
 }
+#hfirst button a{
+color:white;
+}
+#hfirst button a:hover{
+    color:black;
+}
+
 #hfirst img~img{
     width:350px;
     height: 60px;
@@ -95,6 +102,13 @@ font-family: "Lato",sans-serif;
     color:white;
     transition: 1s;
   }
+  #csecond button a{
+    color:black;
+    }
+    #csecond button a:hover{
+        color:white;
+    }
+
   #bfirst{
     width: 100%;
     background-color: black;
@@ -254,6 +268,12 @@ font-family: "Lato",sans-serif;
     color: white;
     transition: 1s;
 }
+#fsecond>div>button a{
+    color:rgb(37, 36, 36);
+    }
+    #fsecond>div>button a:hover{
+        color:white;
+    }
 #fsec>div{  
     margin-top: 50px;
     margin-right: 50px;      
@@ -301,6 +321,12 @@ font-family: "Lato",sans-serif;
      color: white;
      transition: 1s;
  }
+ #fsec>div>button a{
+    color:rgb(37, 36, 36);
+    }
+    #fsec>div>button a:hover{
+        color:white;
+    }
 
  #fthird>div{  
     margin-top: 50px;
@@ -345,6 +371,12 @@ font-family: "Lato",sans-serif;
      color: white;
      transition: 1s;
  }
+ #fthird>div>button a{
+    color:rgb(37, 36, 36);
+    }
+    #fthird>div>button a:hover{
+        color:white;
+    }
  
  #ffourth{
   
@@ -400,6 +432,12 @@ font-family: "Lato",sans-serif;
     color: white;
     transition: 1s;
 }
+#ffourth>button a{
+    color:rgb(37, 36, 36);
+    }
+    #ffourth>button a:hover{
+        color:white;
+    }
 #ffourth  h1{
     color: rgb(43, 42, 42);
         font-size:44px;
@@ -464,3 +502,4 @@ font-family: "Lato",sans-serif;
     margin-top: 30px;
     color: rgb(180, 178, 178);
  }
+  
