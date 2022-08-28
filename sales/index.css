@@ -24,6 +24,10 @@ font-family: "Lato",sans-serif;
 }
 #hfirst a{
     color: gray;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
 }
 #hfirst button {
     font-size:13px;
