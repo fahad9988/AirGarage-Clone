@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Signin</title>
     <link
       rel="stylesheet"
       href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
@@ -41,14 +41,15 @@
           <h5>Email or Phone Number</h5>
           <div class="input-box">
             <i class="uil uil-user-circle"></i>
-            <input id="text" type="email" placeholder="Email or Phone" />
+            <input oninput="checkBasic()" id="email" type="email" placeholder="Email or Phone" />
           </div>
 
          
 
-          <button id="submit-btn">GET VERIFICATION CODE</button>
+          <button  onclick="varify()" id="submit-btn">GET VERIFICATION CODE</button>
         </div>
       </div>
     </div>
   </body>
 </html>
+<script src="./script/signin.js"></script>
