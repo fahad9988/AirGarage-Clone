@@ -4,14 +4,14 @@ dropdown.onclick= function () {
 }
  
 let rent; 
-function show(anything) {
+function show (anything) {
    rent= document.querySelector(".textBox").value=anything;
   if(rent=="Airport"){
     rent="Daily";
    
   }
 }
- if(rent==undefined){
+ if(rent == undefined){
     rent="Hourly"
     localStorage.setItem("rent",JSON.stringify(rent))
  }
