@@ -10,14 +10,11 @@
 
 .signup-container {
     display: flex;
-    /* border: 1px solid black; */
 }
 
 .signup-container .img-box {
     width: 37%;
-    /* border: 1px solid black; */
     background-color: #ffeecc;
-    /* height: 100vh; */
 }
 
 
@@ -37,7 +34,6 @@
 
 .signup-container .form-box {
     width: 63%;
-    /* border: 1px solid black; */
     background-color: white;
 }
 
@@ -49,15 +45,40 @@
 }
 
 .form-content {
-
     width: 50%;
     margin: auto;
     height: 90vh;
 }
 
-.form-content .input-box {
-    /* border: 1px solid red; */
 
+#error,#error2 {
+    width: 50%;
+    margin: auto;
+    border: 1px solid #FF1678;
+    background-color: #ffedf9;
+    border-radius: 5px;
+    text-align: left;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    display: none;
+}
+
+
+#error,#error2 p {
+    text-align: left;
+    font-size: .8em;
+    margin-bottom: 0px;
+    color: #FF1982;
+    opacity: .7;
+}
+
+#error,#error2 p a {
+    text-decoration: none;
+    color: #FF1982;
+
+}
+
+.form-content .input-box {
     width: 100%;
     height: 50px;
     margin: 15px 0 25px 0;
@@ -74,7 +95,6 @@ input[type="email"] {
     border-radius: 5px;
     background-color: #f2f2f2;
     border: 0 solid #fff;
-
 }
 
 .form-content .input-box i {
@@ -86,6 +106,57 @@ input[type="email"] {
     font-weight: 1000;
     padding-left: 10px;
     font-weight: 700;
+}
+
+#popup {
+    border: 1px solid black;
+    width: 50%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: -15px;
+    margin-left: -100px;
+    position: absolute;
+    background-color: white;
+    border-radius: 3px;
+    z-index: 10;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 10px, rgba(0, 0, 0, 0.22) 0px 5px 5px;
+    visibility: hidden;
+}
+
+#popup>i {
+    background-color: blue;
+}
+
+#popup p {
+    font-size: .8em;
+}
+
+#popup>div:first-child {
+    border: 1px solid black;
+    background-color: white;
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    transform: rotate(45deg);
+    top: -7.5px;
+    left: 100px;
+    border-right: 0;
+    border-bottom: 0;
+}
+
+#popup>div~div {
+    height: 25px;
+    width: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 7px;
+    font-size: 30px;
+    font-weight: 1200;
+    border-radius: 2px;
+    background-color: #FA824C;
+    color: white;
 }
 
 #agreement-check {
@@ -108,12 +179,11 @@ input[type="email"] {
     height: 1.2em;
     width: 1.2em;
     outline: none;
-    accent-color: red;
+    accent-color: green;
     outline: none;
     background-color: #ffe7fe;
     border: 0px solid #d4d4d5;
     transition: ease, transform(.1s);
-
 }
 
 #agreement-check input[type="checkbox"]:hover {
@@ -139,8 +209,8 @@ input[type="email"] {
     .form-box {
         width: 80%;
     }
+
     .form-box {
         width: 90%;
     }
-
 }

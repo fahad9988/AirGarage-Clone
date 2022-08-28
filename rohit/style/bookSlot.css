@@ -11,11 +11,24 @@
 body {
     background-color: #fa824c;
 }
+#loading_img_box{
+    height: 100vh;
+}
+#loading_img_box>img{
+    width: 7vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+#content{
+    display: none;
 
+}
 #container {
     display: flex;
     flex-direction: column;
     gap: 30px;
+
 }
 
 #container>div:nth-child(1) {

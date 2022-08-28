@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Signup</title>
     <link
       rel="stylesheet"
       href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
@@ -30,6 +30,13 @@
       <div class="form-box">
         <h2>Sign up for AirGarage</h2>
 
+        <div id="error">
+          <p>Error: username : Invalid username!</p>
+      </div>
+        <div id="error2">
+          <p>Error: useremail : User already exist!</p>
+      </div>
+
         <div class="form-content">
           <h5>First name</h5>
           <div class="input-box">
@@ -50,20 +57,28 @@
           </div>
 
           <h5>Password</h5>
-          <div class="input-box">
-            <i class="uil uil-lock"></i>
-            <input id="password" type="password" placeholder="Password" />
+          <div id="pass_container">
+            <div class="input-box">
+              <i class="uil uil-lock"></i>
+              <input id="password" type="password" placeholder="Password" />
+            </div>
+            <div id="popup">
+              <div></div>
+              <div><i class="uil uil-exclamation"></i></div>
+              <p id="passwordError"></p>
+            </div>
           </div>
 
           <h5>I agree to the:</h5>
           <div id="agreement-check">
             <input type="checkbox" id="check-box" required />
-            <p>Lot Owner <a href="#">Service agreement</a></p>
+            <p>Lot Owner <a href="agreements.html" target="_blank">Service agreement</a></p>
           </div>
 
-          <button id="submit-btn">SUBMIT</button>
+          <button onclick="signUp()" id="submit-btn">SUBMIT</button>
         </div>
       </div>
     </div>
   </body>
 </html>
+<script src="./script/signup.js"></script>

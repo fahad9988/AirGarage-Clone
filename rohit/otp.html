@@ -4,13 +4,14 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>OTP_varification</title>
     <link
       rel="stylesheet"
       href="https://unicons.iconscout.com/release/v4.0.0/css/line.css"
     />
     <link rel="stylesheet" href="./style/otp.css" />
   </head>
+
   <body>
     <div class="signin-container">
       <div class="img-box">
@@ -28,37 +29,71 @@
       </div>
 
       <div class="form-box">
-        
-
         <div class="form-content">
-         
-            
-                <h2>Enter the verification code we emailed to <br><span>duderohit57@gmail.com</span></h2>
-                <div id="error">
-                    <h4>Error: non_field_errors : Unable to log in with provided credentials.</h4>
-                    <p>Having trouble logging in? <a href="#">Click here to message support.</a></p>
-                </div>
-          
-            <div id="otp">
-                
-                <input type="tel">
-                <input type="tel">
-                <input type="tel">
-                <input type="tel">
-                <input type="tel">
-                <input type="tel">
-            </div>
+          <h2>
+            Enter the verification code we emailed to <br /><span
+              class="user_email"
+            ></span>
+          </h2>
+          <div id="error">
+            <h4>
+              Error: non_field_errors : Unable to log in with provided
+              credentials.
+            </h4>
+            <p>
+              Having trouble logging in?
+              <a href="#">Click here to message support.</a>
+            </p>
+          </div>
 
-          
+          <div id="otp">
+            <input
+              onkeyup="checkBasic(this,'digit_2')"
+              id="digit_1"
+              type="tel"
+              maxlength="1"
+            />
+            <input
+              onkeyup="checkBasic(this,'digit_3')"
+              id="digit_2"
+              type="tel"
+              maxlength="1"
+            />
+            <input
+              onkeyup="checkBasic(this,'digit_4')"
+              id="digit_3"
+              type="tel"
+              maxlength="1"
+            />
+            <input
+              onkeyup="checkBasic(this,'digit_5')"
+              id="digit_4"
+              type="tel"
+              maxlength="1"
+            />
+            <input
+              onkeyup="checkBasic(this,'digit_6')"
+              id="digit_5"
+              type="tel"
+              maxlength="1"
+            />
+            <input
+              onkeyup="checkBasic(this,'end')"
+              id="digit_6"
+              type="tel"
+              maxlength="1"
+            />
+          </div>
 
-         
-
-          <button id="submit-btn">GET VERIFICATION CODE</button>
+          <button onclick="logIn()" id="submit-btn">LOG IN</button>
           <div id="resend">
-            <p>Didn't receive a verification code? <span>Resend to duderohit57@gmail.com</span></p>
-        </div>
+            <p>
+              Didn't receive a verification code? <span id="resend_otp"></span>
+            </p>
+          </div>
         </div>
       </div>
     </div>
   </body>
 </html>
+<script src="./script/otp.js"></script>

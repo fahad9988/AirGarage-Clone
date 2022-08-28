@@ -94,9 +94,7 @@ color: #FF1678;
     position: relative;
 }
 
-.form-content .input-box input[type="text"],
-input[type="password"],
-input[type="email"] {
+.form-content .input-box input[type="email"] {
     width: 100%;
     height: 100%;
     padding: 0 35px;
@@ -118,37 +116,16 @@ input[type="email"] {
     font-weight: 700;
 }
 
-#agreement-check {
-    display: flex;
-    gap: 10px;
-    margin: 10px 0 15px 0;
-    align-items: center;
-}
 
-#agreement-check p{
-font-size: 1em;
-}
 
-#agreement-check a,.form-box p a {
+.form-box p a {
     text-decoration: none;
     color: #4183c4;
 }
 
-#agreement-check input[type="checkbox"]{
-    height: 1.2em;
-    width: 1.2em;
-    outline: none;
-    accent-color: red;
-    outline: none;
-    background-color: #ffe7fe;
-    border: 0px solid #d4d4d5;
-    transition:ease, transform(.1sec);
 
-}
 
-#agreement-check input[type="checkbox"]:hover{
-  cursor: pointer;
-}
+
 
 #submit-btn {
     width: 100%;
@@ -160,6 +137,7 @@ font-size: 1em;
     color: #FA824C;
     background-color: #FFEECC;
     font-size: 1em;
+    opacity: .2;
 }
 
 
