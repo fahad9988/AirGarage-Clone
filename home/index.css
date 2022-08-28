@@ -10,7 +10,9 @@ body {
   display: flex;
   justify-content: space-around;
 }
-
+#navbar p{
+  display: inline;
+}
 #navbar div img,
 footer img {
   width: 138px;
@@ -279,5 +281,9 @@ footer {
 
     color: #dd703f;
     padding: 3px;
+  }
+  #navbar p{
+  padding: 20px;
+
   }
 }
