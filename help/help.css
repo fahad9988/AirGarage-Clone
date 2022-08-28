@@ -1,0 +1,100 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    width:40%;
+    height:auto;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+#accordian,#plus, #accordian2,#plus2, #accordian3, #plus3, #accordian4,#accordian5, #accordian6, #accordian7, #accordian8{
+    width:100%;
+    height:auto;
+    display: flex;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    position: relative;
+    text-align: left;
+}
+
+#plus, #plus2, #plus3{
+    
+    position: absolute;
+    width:50px;
+    top:0px;
+    right:20px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#content, #content2 , #content3, #content4, #content5, #content6, #content7, #content8{
+    font-size: 12px;
+    width:100%;
+    height: auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.elements1{
+    display: flex;   
+}
+.elements1>img{
+    width:8%;
+    height: 70%;
+}
+.elements1>div:nth-child(2){
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    margin-top: -10px;
+    margin-left: 10px;
+    width:80%;
+}
+.elements1>div:nth-child(3){
+    margin-top: 10px;
+}
+.elements2{
+    display: flex;   
+}
+.elements2>img{
+    width:8%;
+    height: 50%;
+}
+.elements2>div:nth-child(2){
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    margin-top: -10px;
+    margin-left: 10px;
+    width:80%;
+}
+.elements2>div:nth-child(3){
+    margin-top: 10px;
+}
+#content, #content2, #content3, #content4, #content5,  #content6, #content7, #content8{
+    display: block;
+    font-size: 17px;
+    line-height: 1.5;
+    padding: 0px 50px 0px 50px;
+    transition: height 0.5s;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+}
+
+.btn{
+    width:26%;
+    margin-top: 20px;
+    margin-left: 170px;
+    margin-bottom: 50px;
+    text-align: center;
+    height:40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: #FA824C;;
+    color: #FFFFFF;;
+    font-size: 16px;
+}
