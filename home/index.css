@@ -12,6 +12,7 @@ body {
 }
 #navbar p{
   display: inline;
+  cursor: pointer;
 }
 #navbar div img,
 footer img {

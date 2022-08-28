@@ -54,6 +54,12 @@ body {
     font-size: 1em;
     cursor: pointer;
 }
+#findSpot a{
+    text-decoration: none;
+    color: #FA824C;
+    font-size: 1em;
+    cursor: pointer;
+}
 
 #container>div:nth-child(2) {
     text-align: center;

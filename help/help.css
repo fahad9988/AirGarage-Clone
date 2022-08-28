@@ -2,6 +2,10 @@ body{
     padding: 0px;
     margin: 0px;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
 #container{
     width:40%;
     height:auto;

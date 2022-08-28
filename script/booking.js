@@ -231,7 +231,7 @@ let append = ({ image, price, title }, maxprice) => {
       }
       else{
         localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
-        
+        alert("Your slot has booked successfully!")
 
       }
 
@@ -605,6 +605,7 @@ let append = ({ image, price, title }, maxprice) => {
         }
         else{
           localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
+          alert("Your slot has booked successfully!")
         }
       
 
@@ -873,7 +874,7 @@ let append = ({ image, price, title }, maxprice) => {
       }
       else{
         localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
-
+        alert("Your slot has booked successfully!")
        
       }
     })

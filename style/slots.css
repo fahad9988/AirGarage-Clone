@@ -18,6 +18,7 @@ body{
 #box1{
  width:50%;
  height:auto;
+ 
 }
 
 
@@ -58,6 +59,7 @@ margin: auto;
  height:150px;
  border-bottom: 2px solid rgb(204, 202, 202);
  border-width: 80%;
+cursor: pointer;
 
 }
 #subbox1{

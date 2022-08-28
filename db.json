@@ -1178,17 +1178,6 @@
     "Montana"
   ],
   "users": [
-    {
-      "firstname": "Anand",
-      "lastname": "Kumar",
-      "email": "anandyadav144@gmail.com",
-      "mobile": "",
-      "password": "12345678",
-      "service_agreements_checked": false,
-      "varification_code": "null",
-      "rating": "",
-      "tickets": null,
-      "id": 1
-    }
+   
   ]
 }
