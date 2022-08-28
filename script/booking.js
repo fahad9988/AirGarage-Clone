@@ -230,8 +230,8 @@ let append = ({ image, price, title }, maxprice) => {
        },3000)
       }
       else{
-        localStorage.setItem("bookedSlot",JSON.stringify("Bslot"));
-        postTicket(Bslot);
+        localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
+        
 
       }
 
@@ -604,8 +604,7 @@ let append = ({ image, price, title }, maxprice) => {
          },3000)
         }
         else{
-          localStorage.setItem("bookedSlot",JSON.stringify("Bslot"));
-          postTicket(Bslot);
+          localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
         }
       
 
@@ -873,9 +872,9 @@ let append = ({ image, price, title }, maxprice) => {
        },3000)
       }
       else{
-        localStorage.setItem("bookedSlot",JSON.stringify("Bslot"));
+        localStorage.setItem("bookedSlot",JSON.stringify(Bslot));
 
-        postTicket(Bslot);
+       
       }
     })
 
