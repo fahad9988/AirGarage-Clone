@@ -2,10 +2,10 @@
 
 <h2>Description</h2>
 <p>AirGarage is an international website to find parking spots in United States of America.</p>
-<img src="" alt="OLX" border="0">
-<img src="" alt="OLX" border="0">
-<img src="" alt="OLX" border="0">
-<img src="" alt="OLX" border="0">
+<img src="" alt="AirGarage" border="0">
+<img src="" alt="AirGarage" border="0">
+<img src="" alt="AirGarage" border="0">
+<img src="" alt="AirGarage" border="0">
 <h2>Tech Stacks used in this project</h2>
 <ul>
 <li>HTML</li>
